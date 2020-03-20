@@ -1,4 +1,4 @@
-# <img src="assets/images/covid19-logo.png" width="50px" height="50px">[COVID19 US Specific Dashboard](https://ncov19.us/)
+# <img src="covid19-logo.png" width="50px" height="50px">[COVID19 US Specific Dashboard](https://ncov19.us/)
 
 # DS - Analytics, and Data Munging Repo
 
