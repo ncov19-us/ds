@@ -8,6 +8,8 @@ plotly = "*"
 pandas = "*"
 jupyter = "*"
 python-decouple = "*"
+requests = "*"
+beautifulsoup4 = "*"
 
 [dev-packages]
 pylint = "*"
