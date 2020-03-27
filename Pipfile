@@ -10,6 +10,7 @@ jupyter = "*"
 python-decouple = "*"
 requests = "*"
 beautifulsoup4 = "*"
+pycountry = "*"
 
 [dev-packages]
 pylint = "*"
