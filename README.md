@@ -1,12 +1,16 @@
-# <img src="covid19-logo.png" width="50px" height="50px">[COVID19 US Specific Dashboard](https://ncov19.us/)
+# <img src="covid19-logo.png" width="25px" height="25px">[COVID19 US Specific Dashboard](https://ncov19.us/)
 
 # DS - Analytics, and Data Munging Repo
 
 # Data Sources
-- [Johns Hopkins CSSE](https://github.com/CSSEGISandData/COVID-19)
-- State & Local Govs.
+
+- For US and State [Johns Hopkins CSSE](https://github.com/CSSEGISandData/COVID-19)
+- For County comes from State & Local Govs. County Sites
+- For Tested Data: [COVIDTRACKING](https://covidtracking.com/api/)
+- Drive-Thru COVID-19 Testing Centers, hand labelled from News Articles
 - Twitter API
 - News API
+- Google News API
 
 
 ## Contributors
