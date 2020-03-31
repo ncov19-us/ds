@@ -1,141 +1,333 @@
 ,Name,URL,Latitude,Longitude
-0, collaborative effort between health care providers ,https://www.adn.com/alaska-news/anchorage/2020/03/17/anchorage-drive-thru-coronavirus-testing-site-now-open/,61.1828699,-149.837269
-1, Church of the Highlands- Grant\'s Mill ,https://www.google.com/amp/s/www.wvtm13.com/amp/article/drive-thru-coronavirus-testing-in-birmingham-bessemer-and-tuscaloosa/31651212,33.51699910000001,-86.6558468
-2, UAMS ,https://www.thv11.com/mobile/article/news/health/coronavirus/drive-thru-coronavirus-screenings-now-available-at-uams/91-20aa90ca-fd60-4a9e-b348-0eac264eb666,34.749005100000005,-92.32009649999999
-3, Mayo Clinic Hospital ,https://www.12news.com/article/news/health/coronavirus/drive-up-coronavirus-testing-in-the-valley/75-a7d139ea-b232-4f48-a363-a49d5167ef8a,33.66211083,-111.95351289999999
-4, Mayo Clinic ,https://www.12news.com/article/news/health/coronavirus/drive-up-coronavirus-testing-in-the-valley/75-a7d139ea-b232-4f48-a363-a49d5167ef8a,33.586042299999995,-111.7940787
-5, Stanford Health Care ,http://med.stanford.edu/news/all-news/2020/03/stanford-offers-drive-through-coronavirus-test.html,37.441514899999994,-122.1686795
-6, Kaiser Permanente French Campus ,https://www.sfgate.com/bayarea/article/coronavirus-testing-San-Francisco-Kaiser-drive-up-15125976.php,37.780666100000005,-122.4637656
-7, Colorado Department of Public Health and Environment State Lab ,https://www.denverpost.com/2020/03/11/colorado-drive-thru-coronavirus-tests/,39.71696,-104.89399999999999
-8, Denver Coliseum ,https://www.colorado.gov/pacific/cdphe/covid-19-testing,39.780581700000006,-104.9719301
-9, Hartford Hospital ,https://www.courant.com/news/connecticut/hc-news-coronavirus-test-hospitals-20200309-lb54zvss6var7j7p4bfnphg4fe-story.html,41.754560999999995,-72.679231
-10, ChristianaCare ,https://philadelphia.cbslocal.com/2020/03/13/coronavirus-christianacare-to-offer-drive-thru-covid-19-testing-in-wilmington/,39.7348389,-75.56374090000001
-11, Cleveland Clinic Martin Health ,https://www.tcpalm.com/story/news/local/martin-county/2020/03/14/coronavirus-florida-cleveland-clinic-martin-health-offer-drive-thru-testing/5051111002/,27.199390500000003,-80.2433033
-12," FoundCare, Inc. ",https://www.wptv.com/news/region-c-palm-beach-county/west-palm-beach/drive-through-coronavirus-testing-starts-monday-in-west-palm-beach,26.6417515,-80.0875967
-13, Ascension Sacred Heart  ,https://www.pnj.com/story/news/2020/03/15/pensacola-drive-through-coronavirus-testing-unit-open-monday/5053910002/,30.481178000000003,-87.210788
-14, Memorial Healthcare System in Broward County ,https://www.fox13news.com/news/national-guard-memorial-health-to-set-up-drive-through-covid-19-testing,26.019739,-80.180328
-15, Valdosta\'s South Georgia Medical Center ,https://www.wctv.tv/content/news/Valdostas-South-Georgia-Medical-Center-opens-COVID-19-drive-thru-screening-station-568827821.html,30.8623305,-83.28660579999999
-16, Dept. of Public Health-West Central Health ,https://www.ledger-enquirer.com/news/coronavirus/article241245021.html,32.4832,-84.979134
-17, MercyMed of Columbus ,https://www.ledger-enquirer.com/news/coronavirus/article241245021.html,32.49828,-84.98948
-18, Walgreens ,https://www.kitv.com/story/41897124/hawaii-test-drives-covid19-drivethru-screening-program-in-kaneohe,21.41948,-157.80213999999998
-19, Walgreens/ Premire Medical Group Hawaii ,https://www.kitv.com/story/41897124/hawaii-test-drives-covid19-drivethru-screening-program-in-kaneohe,21.419479,-157.80213899999998
-20, Advocate Good Shepherd Hospital ,https://wgntv.com/news/coronavirus/suburban-hospital-starts-drive-thru-service-for-covid-19-testing/,42.19560429999999,-88.1732048
-21, Advocate Good Shepard ,https://www.fox32chicago.com/news/hospital-in-suburban-chicago-offering-drive-thru-coronavirus-testing,42.19386055,-88.18212083
-22, Franciscian Health Michigan City  ,https://www.nbcchicago.com/news/local/northwest-indiana-hospital-to-offer-drive-thru-coronavirus-testing/2238420/,41.708079999999995,-86.87795
-23, Stormont Vail ,https://www.wibw.com/content/news/Stormont-Vail--568851271.html,39.0516701,-95.6950282
-24, Baton Rouge General Medical Center ,https://www.wrkf.org/post/louisianas-first-drive-thru-covid-19-testing-clinic-opens-baton-rouge,30.449546299999998,-91.1530923
-25, Cape Cod Community College ,https://www.wpri.com/health/coronavirus/massachusetts-officials-offering-drive-thru-testing-for-coronavirus/,41.688,-70.33643000000001
-26, Falmouth Hospital ,https://www.nbcboston.com/news/local/remote-coronavirus-testing-facilities-begin-to-open-in-mass/2093138/,41.564415000000004,-70.62230699999999
-27, Cape Cod Hospital ,https://www.nbcboston.com/news/local/remote-coronavirus-testing-facilities-begin-to-open-in-mass/2093138/,41.652951,-70.273178
-28, LifeBridge Health / Carroll Hospital  ,https://www.baltimoresun.com/coronavirus/bs-hs-coronavirus-testing-20200313-chwl7t7qqffmfp3o5xu4ciadby-story.html,39.558286100000004,-76.990377
-29, University of Maryland Upper Chesapeake Health ,https://baltimore.cbslocal.com/2020/03/13/coronavirus-in-maryland-upper-chesapeake-health-offers-drive-thru-testing/,39.5191344,-76.3463844
-30, Medstar St. Mary\'s Hospital  ,https://www.nbcwashington.com/news/local/drive-through-coronavirus-testing-site-to-open-in-arlington/2244941/,38.29958962,-76.64078128
-31, Henry Ford Allegiance Health ,https://www.crainsdetroit.com/coronavirus/southeast-michigan-hospitals-begin-drive-through-coronavirus-testing,42.25472,-84.46568
-32," Beaumont Hospital, Royal Oak ",https://www.crainsdetroit.com/coronavirus/southeast-michigan-hospitals-begin-drive-through-coronavirus-testing,42.51538660000001,-83.193281
-33," Beaumont Hospital, Dearborn ",https://www.crainsdetroit.com/coronavirus/southeast-michigan-hospitals-begin-drive-through-coronavirus-testing,42.289891600000004,-83.2147379
-34," Beaumont Hospital, Troy ",https://www.crainsdetroit.com/coronavirus/southeast-michigan-hospitals-begin-drive-through-coronavirus-testing,42.6191539,-83.09257240000001
-35," Beaumont Hospital, Framington Hills ",https://www.crainsdetroit.com/coronavirus/southeast-michigan-hospitals-begin-drive-through-coronavirus-testing,42.4463793,-83.323736
-36, Spectrum Health ,https://www.woodtv.com/health/coronavirus/spectrum-opens-drive-thru-covid-19-testing-by-appointment-only/,42.96942,-85.6364292
-37, Mayo Family Clinic Northwest ,https://www.postbulletin.com/life/health/mayo-clinic-starts-drive-thru-testing-for-covid/article_0087a856-63e3-11ea-be76-c7558f932526.html,44.01921,-92.48793
-38, Mercy Virtual Care Center  ,https://www.kmov.com/news/mercy-collects-tests-during-first-day-of-drive-thru-coronavirus/article_f0f7b6e0-6641-11ea-b072-4f11b4b9c67e.html,38.65146299,-90.55890626
-39, Med Plus Clinic ,https://www.djournal.com/news/drive-thru-covid--testing-available-in-tupelo-fulton/article_9e90d89f-df00-53a4-85e5-4c65deac3a24.html,34.3159308,-88.7050755
-40, Med Plus Clinic ,https://www.djournal.com/news/drive-thru-covid--testing-available-in-tupelo-fulton/article_9e90d89f-df00-53a4-85e5-4c65deac3a24.html,34.2397644,-88.40026920000001
-41, Biltmore Church ,https://www.citizen-times.com/story/news/local/2020/03/17/coronavirus-nc-buncombe-opens-covid-19-drive-thru-testing-sites/5066530002/,35.4870769,-82.56717590000001
-42, UNC Asheville Health ,https://www.citizen-times.com/story/news/local/2020/03/17/coronavirus-nc-buncombe-opens-covid-19-drive-thru-testing-sites/5066530002/,35.613563899999995,-82.56124940000001
-43, Bryan Urgent Care ,https://www.bryanhealth.com/about-bryan-health/news/2020/bryan-health-implements-new-measures-in-response-to-covid-19-pan/,40.7340951,-96.6840854
-44, New Hampshire National Gaurd Armory ,https://www.unionleader.com/news/health/coronavirus/mobile-test-site-open-besieged-in-manchester/article_6c059ee3-1f70-55b5-89a9-77025065d5be.html,43.00201,-71.46631
-45, Elliot Hospital ,https://patch.com/new-hampshire/londonderry/elliot-hospital-sets-drive-thru-testing,42.984138,-71.43731700000001
-46, Riverside Medical Group ,http://newjersey.news12.com/story/41896736/drivethru-testing-facility-for-coronavirus-set-up-in-secaucus,40.7936668,-74.0687306
-47, Bergen County Community College ,https://www.nj.com/coronavirus/2020/03/nj-setting-up-coronavirus-test-collection-center-in-bergen-county.html,40.95154,-74.09383000000001
-48, Holy Name Medical Center ,https://www.northjersey.com/story/news/bergen/teaneck/2020/03/14/holy-name-medical-testing-patients-coronavirus-tents-outside-er/5050682002/,40.887932,-74.005348
-49, IMMEDIATE CARE , http://immcare.com/locations/marlboro-location/,40.333453399999996,-74.24191359999999
-50, Lovelace Medical Center PRESNow ,https://www.abqjournal.com/1431891/lovelace-tests-hundreds-runs-low-on-supplies.html,35.1343734,-106.70220220000002
-51, PMG Urgent Care ,https://www.krqe.com/health/coronavirus-new-mexico/hundreds-get-tested-in-hospital-coronavirus-drive-thru/,35.127167,-106.7089755
-52, Sahara West Urgent Care & Wellness ,https://news3lv.com/news/local/local-clinic-offers-drive-thru-coronavirus-tests,36.14284,-115.22626000000001
-53, Glen Island Park ,https://www.amny.com/editorial/drive-thru-covid-19-testing-in-new-rochelle-will-soon-expand-elsewhere/,40.884640000000005,-73.783813
-54, University of Dayton Arena ,https://www.daytondailynews.com/news/local/coronavirus-drive-testing-begins-dayton/MHZE4hK57NOB3RIVT0HgXL/,39.7358407,-84.1999699
-55, UC Health West Medical  ,https://www.cincinnati.com/story/news/2020/03/17/coronavirus-ohio-uc-health-opens-testing-tent-corryville/5067052002/,39.120435799999996,-84.5023411
-56, UH Landerbrook Health Center ,https://fox8.com/news/coronavirus/university-hospitals-cleveland-clinic-add-second-drive-thru-testing-site/,41.503254999999996,-81.469037
-57, Jameson Crane Sports Medicine Institute ,https://www.nbc4i.com/community/health/coronavirus/osu-wexner-medical-center-opening-drive-thru-covid-19-testing-sites-for-patients/,40.017815,-83.031645
-58, Access Solutions Medical Group ,https://www.newson6.com/story/41907765/oklahoma-primary-care-provider-sets-up-drivethru-coronavirus-covid19-testing,36.07585,-95.90312
-59, Penn Medicine Radnor ,https://www.phillyvoice.com/coronavirus-testing-drive-thru-philadelphia-penn-medicine-covid-19/,40.042680600000004,-75.35820079999999
-60, Main Line Health Center in Newtown Square ,https://www.phillyvoice.com/coronavirus-testing-drive-thru-philadelphia-penn-medicine-covid-19/,39.9871109,-75.4102349
-61, Central Outreach Wellness Center ,https://www.wtae.com/article/drive-thru-coronavirus-testing-sites-pittsburgh/31661550#,40.44873,-80.00085
-62, Central Outreach Wellness Center ,https://www.wtae.com/article/drive-thru-coronavirus-testing-sites-pittsburgh/31661550#,40.18195,-80.24088
-63, Central Outreach Wellness Center ,https://www.wtae.com/article/drive-thru-coronavirus-testing-sites-pittsburgh/31661550#,40.61188,-80.28631999999999
-64, MUSC Health West Ashley Medical Pavilion ,https://web.musc.edu/about/news-center/2020/03/12/covid-19-drive-thru,32.7977875,-80.0307564
-65, Prisma Health Richland Hospital North Portal ,https://www.wistv.com/2020/03/16/prisma-health-offer-limited-drive-thru-coronavirus-testing-sc/,34.02787,-81.0333
-66, Prisma Health Greenville Memorial Medical Campus ,https://www.wistv.com/2020/03/16/prisma-health-offer-limited-drive-thru-coronavirus-testing-sc/,34.82148,-82.41377
-67, Monument Health Rapid City Urgent Care ,https://www.newscenter1.tv/monument-health-adding-drive-through-testing-for-coronavirus/,44.0733552,-103.2547728
-68, Womens Health Care Group ,https://wreg.com/news/shelby-county-clinic-offering-drive-through-coronavirus-testing/,35.31661,-89.63574
-69, Baylor Scott and White ,https://www.texastribune.org/2020/03/14/coronavirus-updates-texas-congress-passes-free-coronavirus-testing-bil/,30.393259999999998,-97.72023
-70, Parkland Hospital ,https://www.wfaa.com/article/news/health/coronavirus/live-covid-19-updates-march-15-2020/287-1b000215-9432-4b2b-8550-a6ab2710768f,32.8126539,-96.8359325
-71, My Family Doctor clinic ,https://www.houstonchronicle.com/news/houston-texas/houston/article/Houston-clinic-offering-drive-thru-testing-already-15137860.php,29.7114865,-95.4942494
-72, Davis Hospital & Medical Center ,https://www.abc4.com/news/health/coronavirus/steward-medical-center-offers-free-drive-thru-coronavirus-testing-in-utah/,41.091221999999995,-111.99512800000001
-73, Jordan Valley Medical Center ,https://www.abc4.com/news/health/coronavirus/steward-medical-center-offers-free-drive-thru-coronavirus-testing-in-utah/,40.58798839999999,-111.97536699999999
-74, Mountain Point Medical Center ,https://www.abc4.com/news/health/coronavirus/steward-medical-center-offers-free-drive-thru-coronavirus-testing-in-utah/,40.425272799999995,-111.87856380000001
-75, Davis Hospital and Medical Center ,https://www.abc4.com/news/health/coronavirus/steward-medical-center-offers-free-drive-thru-coronavirus-testing-in-utah/,41.09111,-111.99523
-76, Jordan Valley Medical Center ,https://www.abc4.com/news/health/coronavirus/steward-medical-center-offers-free-drive-thru-coronavirus-testing-in-utah/,40.590379999999996,-111.97419
-77, Mountain Point Medical Center ,https://www.abc4.com/news/health/coronavirus/steward-medical-center-offers-free-drive-thru-coronavirus-testing-in-utah/,40.42521,-111.8785
-78, Sentara Princess Anne Hospital ,https://www.13newsnow.com/article/news/health/coronavirus/sentara-offers-drive-thru-screening-testing-for-covid-19/291-6e5d3ead-203c-448a-9da7-e3c7f584671b,36.7752571,-76.0988283
-79, Sentara Williamsburg Regional Medical Center ,https://www.13newsnow.com/article/news/health/coronavirus/sentara-offers-drive-thru-screening-testing-for-covid-19/291-6e5d3ead-203c-448a-9da7-e3c7f584671b,37.336665,-76.74089000000001
-80, Sentara Edinburgh ,https://www.13newsnow.com/article/news/health/coronavirus/sentara-offers-drive-thru-screening-testing-for-covid-19/291-6e5d3ead-203c-448a-9da7-e3c7f584671b,36.6527646,-76.23089399999999
-81, Virginia Hospital Center ,https://www.nbcwashington.com/news/local/drive-through-coronavirus-testing-site-to-open-in-arlington/2244941/,38.8893156,-77.10692970000001
-82, Southwestern Vermont Medical Center ,https://www.burlingtonfreepress.com/story/news/local/2020/03/09/vermont-hospital-treating-states-covid-19-case-drive-up-test/4998718002/,42.874199,-73.20755
-83, Porter Medical Center ,https://addisonindependent.com/news/porter-hospital-sets-drive-through-covid-19-testing,43.999889,-73.168541
-84, Froedtrent South Pleasant Prarie Clinic ,https://www.tmj4.com/news/coronavirus/froedtert-south-opens-drive-thru-coronavirus-testing-site-in-kenosha-county,42.5551949,-87.890865
-85, Mercer County Fairgrounds ,https://www.whio.com/news/local/coronavirus-drive-thru-testing-center-opens-today-mercer-county-fairgrounds/sFEiQ8qorp5Qxs2Gk938vO/,40.550191999999996,-84.58388599999999
-86, OCH Regional Medical Center: ,https://www.clarionledger.com/story/news/2020/03/18/what-we-know-coronavirus-mississippi/5074317002/,33.47612,-88.82113000000001
-87, Sandhills Medical Foundation ,https://www.postandcourier.com/health/covid19/hotbed-of-sc-s-coronavirus-outbreak-to-launch-drive-thru/article_03d6dc98-6956-11ea-a7ce-0f8a53df1a65.html,34.27707,-80.61193
-88, East Tennessee Medical Group ,https://www.wate.com/news/drive-through-coronavirus-testing-now-available-in-blount-county/,35.76768,-83.97725
-89, George Washington University Hospital ,https://www.washingtonpost.com/local/virginia-dc-maryland-coronavirus-news-wednesday/2020/03/18/9e49700a-6925-11ea-abef-020f086a3fab_story.html,38.900929999999995,-77.04772
-90, UW Medical Center Northwest ,https://www.geekwire.com/2020/uw-medicine-opens-drive-coronavirus-testing-station-patients-appointment/,47.71413,-122.336998
-91, Kaiser Permanente Lynnwood Medical Center ,https://www.kiro7.com/news/local/where-are-coivd-19-drive-thru-test-sites-western-washington/FF47QNZ6OZGMVPQIM5YIEDMG3M/,47.81467049,-122.3060784
-92, Kaiser Permanente Puyallup Medical Center ,https://www.kiro7.com/news/local/where-are-coivd-19-drive-thru-test-sites-western-washington/FF47QNZ6OZGMVPQIM5YIEDMG3M/,47.15482636,-122.2791635
-93, Kaiser Permanente Factoria Medical Center ,https://www.kiro7.com/news/local/where-are-coivd-19-drive-thru-test-sites-western-washington/FF47QNZ6OZGMVPQIM5YIEDMG3M/,47.57937631,-122.1604894
-94, Kaiser Permanente Olympia Medical Center ,https://www.kiro7.com/news/local/where-are-coivd-19-drive-thru-test-sites-western-washington/FF47QNZ6OZGMVPQIM5YIEDMG3M/,47.05689595,-122.8422618
-95, Seattle Kaiser Permanente Capitol Hill Campus ,https://www.kiro7.com/news/local/where-are-coivd-19-drive-thru-test-sites-western-washington/FF47QNZ6OZGMVPQIM5YIEDMG3M/,47.61988495,-122.312075
-96, Kaiser Permanente Silverdale Medical Center ,https://www.kiro7.com/news/local/where-are-coivd-19-drive-thru-test-sites-western-washington/FF47QNZ6OZGMVPQIM5YIEDMG3M/,47.65804056,-122.6866795
-97, Kaiser Permanente Burien Medical Center ,https://www.kiro7.com/news/local/where-are-coivd-19-drive-thru-test-sites-western-washington/FF47QNZ6OZGMVPQIM5YIEDMG3M/,47.47235926,-122.336055
-98, Swedish Issaquah Campus ,https://www.kiro7.com/news/local/where-are-coivd-19-drive-thru-test-sites-western-washington/FF47QNZ6OZGMVPQIM5YIEDMG3M/,47.535712100000005,-122.02176809999999
-99, Swedish First Hill ,https://www.kiro7.com/news/local/where-are-coivd-19-drive-thru-test-sites-western-washington/FF47QNZ6OZGMVPQIM5YIEDMG3M/,47.6063055,-122.3217666
-100, Swedish Edmonds Campus ,https://www.kiro7.com/news/local/where-are-coivd-19-drive-thru-test-sites-western-washington/FF47QNZ6OZGMVPQIM5YIEDMG3M/,47.80280535,-122.33359109999998
-101, West Virginia University Medicine ,https://wvumedicine.org/news/article/wvu-medicine-to-offer-pre-screened-patients-drive-through-specimen-collection-for-covid-19/,39.6539117,-79.95774859999999
-102, WVU Camden Clark Medical Center ,https://www.wtap.com/content/news/BREAKING-Parkersburg-among-5-WVU-Medicine--568875051.html?ref=051,39.2696181,-81.5599487
-103," Wheeling Hospital, Wheeling Park (parking lot) ",https://wtov9.com/news/local/wheeling-hospital-conducts-drive-thru-covid-19-testing-at-wheeling-park,40.0579749,-80.6667535
-104, WVU United Hospital Center ,https://www.wvnews.com/theet/news/bridgeport-wv-drive-through-testing-site-already-serving-patients/article_5b1fc19d-b0cb-56be-8469-b2069f471abf.html,39.328546,-80.239579
-105, South Beach Psychiatric Center ,https://nypost.com/2020/03/19/nycs-first-drive-thru-coronavirus-testing-site-opens-on-staten-island/,40.5822,-74.07947
-106, Cheyenne Regional Medical Center ,https://www.wyomingnews.com/news/local_news/drive-up-covid--testing-begins-governor-announces-task-forces/article_f798d233-baf0-55b7-8cf2-af976307c78c.html,41.140052000000004,-104.81517
-107, Mountain View Hospital ,https://www.kivitv.com/news/drive-thru-covid-19-testing-available-in-idaho-falls-for-patients-with-doctor-referrals,43.478947999999995,-112.001602
-108, St. Luke\'s Meridian Medical Center ,https://www.idahostatesman.com/news/coronavirus/article241274011.html,43.598708,-116.353059
-109, St. Luke\'s Wood River Hospital ,https://www.idahostatesman.com/news/coronavirus/article241274011.html,43.648703000000005,-114.349951
-110, St. Luke\'s Elmore Medical Center ,https://www.idahostatesman.com/news/coronavirus/article241274011.html,43.13865,-115.69313100000001
-111, Saltzer Medical Group ,https://www.idahostatesman.com/news/coronavirus/article241274011.html,43.617235,-116.589524
-112, St. Luke\'s Magic Valley Medical Center ,https://www.idahostatesman.com/news/coronavirus/article241274011.html,42.590956,-114.496583
-113, Trinity Medical Arts Clinic ,https://www.kfyrtv.com/content/news/Health-officials-discuss-COVID-19-testing-protocols-in-Minot--568873751.html,48.23226,-101.286197
-114, Temple University- Ambler Campus  ,https://6abc.com/health/covid19-montco-cases-jump-to-55;-drve-thru-testing-opens-saturday/6028819/,40.16529,-75.19731999999999
-115, Citizens Bank Park ,https://www.nbcphiladelphia.com/news/coronavirus/area-near-citizens-bank-park-set-to-open-drive-thru-coronavirus-testing/2334341/,39.906971,-75.166443
-116, Mercy Coronavirus Evaluation Site ,https://www.5newsonline.com/article/news/health/coronavirus/mercy-opening-drive-thru-covid-19-testing-site-in-rogers/527-19772220-7958-4260-8494-872a7ac7e9dc,36.329311,-94.17524
-117, Conway Regional Hospital System  ,https://www.thv11.com/mobile/article/news/local/conway/conway-regional-offering-drive-thru-coronavirus-testing-site/91-663082cd-203d-4896-b594-e817cbcdfafe,35.08586,-92.45718000000001
-118, Norwalk Hospital ,https://www.thehour.com/news/coronavirus/article/Norwalk-Hospital-introduces-drive-thru-15143025.php,41.1108619,-73.42196835
-119, Bridgeport Hospital ,https://www.thehour.com/news/coronavirus/article/Drive-thru-COVID-19-testing-location-in-15140116.php,41.18947085,-73.1674697
-120, Murphy Medical Associates ,https://www.thehour.com/news/coronavirus/article/Drive-thru-COVID-19-testing-location-in-15140116.php,41.06005506,-73.5373122
-121, Greenwich Hospital ,https://www.thehour.com/news/coronavirus/article/Drive-thru-COVID-19-testing-location-in-15140116.php,41.03451,-73.63035
-122, Murphy Medical Associates ,https://www.thehour.com/news/coronavirus/article/Drive-thru-COVID-19-testing-location-in-15140116.php,41.17517,-73.12980999999999
-123, Murphy Medical Associates ,https://www.thehour.com/news/coronavirus/article/Drive-thru-COVID-19-testing-location-in-15140116.php,41.12857,-73.48484
-124, Danbury Hospital  ,https://www.thehour.com/news/coronavirus/article/Drive-thru-COVID-19-testing-location-in-15140116.php,41.40475,-73.44725
-125, Yale- New Haven ,https://www.thehour.com/news/coronavirus/article/Drive-thru-COVID-19-testing-location-in-15140116.php,41.28546,-72.92936999999999
-126, Bayview Medical Center ,https://www.delawarepublic.org/post/christianacare-drive-through-could-dramatically-increase-number-delawareans-tested-covid-19,38.75385,-75.16383
-127, Cleveland Clinic Florida ,https://www.miamiherald.com/news/coronavirus/article241328216.html,26.07709,-80.36712
-128, Broward Health  ,https://www.miamiherald.com/news/coronavirus/article241328216.html,26.275159999999996,-80.11851999999999
-129, Memorial Hospital West-C.B. Park ,https://www.miamiherald.com/news/coronavirus/article241328216.html,26.012610000000002,-80.31475
-130, Doris Ison Health Center ,https://www.miamiherald.com/news/coronavirus/article241328216.html,25.56547,-80.35772
-131, Piedmont Athens- Oconee Health Campus ,https://www.onlineathens.com/news/20200319/piedmont-athens-operating-coronavirus-drive-through-testing-site,33.91554,-83.46523
-132, Urgent Care Hawaii-Pearl City ,https://www.hawaiinewsnow.com/2020/03/12/urgent-care-facilities-now-offering-drive-through-coronavirus-testing/,21.401629999999997,-157.97025
-133, Urgent Care Hawaii--Kapolei ,https://www.hawaiinewsnow.com/2020/03/12/urgent-care-facilities-now-offering-drive-through-coronavirus-testing/,21.33377,-158.08345
-134, Urgent Care Hawaii-Kailua ,https://www.hawaiinewsnow.com/2020/03/12/urgent-care-facilities-now-offering-drive-through-coronavirus-testing/,21.3943,-157.74309
-135, University of Chicago Medical Center ,https://www.nbcchicago.com/news/local/drive-thru-coronavirus-testing-available-at-some-area-hospitals-but-with-tight-restrictions/2240669/,41.7882,-87.60449
-136, Advocate Lutheran General Hospital  ,https://www.nbcchicago.com/news/local/drive-thru-coronavirus-testing-available-at-some-area-hospitals-but-with-tight-restrictions/2240669/,42.039371,-87.847572
-137, Deaconess Midtown Hospital  ,https://www.courierpress.com/story/news/2020/03/17/indiana-coronavirus-testing-near-me-how-to-get-tested-deaconess-evansville/5075207002/,37.98316,-87.57121
-138, North Iowa Events Center ,https://kttc.com/2020/03/18/drive-through-testing-site-now-open-in-mason-city/,43.155429999999996,-93.20428000000001
-139, Augusta University Health System- Christenberry Fieldhouse ,https://www.wjbf.com/lifestyle/health/coronavirus/drive-thru-covid-19-testing-coming-to-augusta-university-app-available/,33.47041,-82.042
+0, Collaborative Effort of Health Care Providers ,https://www.adn.com/alaska-news/anchorage/2020/03/17/anchorage-drive-thru-coronavirus-testing-site-now-open/,61.1828699,-149.837269
+1, Alaska Healthcare ,https://www.tomsguide.com/news/drive-through-coronavirus-testing-locations-where-to-go-in-your-state#alaska-coronavirus-drive-through-testing,61.18261999999999,-149.83806
+2, Fairbanks\' Foundation Health Partners ,http://www.newsminer.com/alerts/fairbanks-launches-drive-thru-testing-for-covid/article_68c92f58-6d74-11ea-8291-c3ac02d32cb5.html,64.83998000000001,-147.71432
+3, Fairbanks Memorial Hospital ,https://www.adn.com/alaska-news/2020/03/25/some-alaska-patients-report-long-waits-to-get-coronavirus-test-results-and-testing-isnt-yet-available-in-many-communities/,64.832649,-147.74156200000002
+4, Church of the Highlands- Grant\'s Mill ,https://www.google.com/amp/s/www.wvtm13.com/amp/article/drive-thru-coronavirus-testing-in-birmingham-bessemer-and-tuscaloosa/31651212,33.51699910000001,-86.6558468
+5, UAMS ,https://www.thv11.com/mobile/article/news/health/coronavirus/drive-thru-coronavirus-screenings-now-available-at-uams/91-20aa90ca-fd60-4a9e-b348-0eac264eb666,34.749005100000005,-92.32009649999999
+6, Mercy Coronavirus Evaluation Site ,https://www.5newsonline.com/article/news/health/coronavirus/mercy-opening-drive-thru-covid-19-testing-site-in-rogers/527-19772220-7958-4260-8494-872a7ac7e9dc,36.329311,-94.17524
+7, Conway Regional Hospital System  ,https://www.thv11.com/mobile/article/news/local/conway/conway-regional-offering-drive-thru-coronavirus-testing-site/91-663082cd-203d-4896-b594-e817cbcdfafe,35.08586,-92.45718000000001
+8, Mayo Clinic Hospital ,https://www.12news.com/article/news/health/coronavirus/drive-up-coronavirus-testing-in-the-valley/75-a7d139ea-b232-4f48-a363-a49d5167ef8a,33.66211083,-111.95351289999999
+9, Mayo Clinic ,https://www.12news.com/article/news/health/coronavirus/drive-up-coronavirus-testing-in-the-valley/75-a7d139ea-b232-4f48-a363-a49d5167ef8a,33.586042299999995,-111.7940787
+10, Maready Medical ,https://www.mareadymedical.com,33.34102,-111.68648
+11, Coconino County Department of Health and Human Services ,https://www.azfamily.com/news/continuing_coverage/coronavirus_coverage/coconino-county-announces-drive-up-coronavirus-testing/article_b622839e-6856-11ea-bbaa-eb4066f910ed.html,35.21788,-111.61301
+12, Coconino County Department of Health and Human Services ,https://www.azfamily.com/news/continuing_coverage/coronavirus_coverage/coconino-county-announces-drive-up-coronavirus-testing/article_b622839e-6856-11ea-bbaa-eb4066f910ed.html,35.141220000000004,-111.69421000000001
+13, Stanford Health Care ,http://med.stanford.edu/news/all-news/2020/03/stanford-offers-drive-through-coronavirus-test.html,37.441514899999994,-122.1686795
+14, Kaiser Permanente French Campus ,https://www.sfgate.com/bayarea/article/coronavirus-testing-San-Francisco-Kaiser-drive-up-15125976.php,37.780666100000005,-122.4637656
+15, Mammoth Hospital ,https://carbonhealth.com/coronavirus/covid-19-testing-centers/California,37.64393,-118.9631
+16, Visalia Walk In Medical Clinic - West Caldwell Ave ,https://carbonhealth.com/coronavirus/covid-19-testing-centers/California,36.2981,-119.3179
+17, One Medical ,https://patch.com/california/sanrafael/coronavirus-drive-thru-testing-center-opens-san-rafael,38.00823,-122.5446971
+18, Clovis Urgent Care Medical Center ,https://carbonhealth.com/coronavirus/covid-19-testing-centers/California,36.80905,-119.68763
+19, Industrial Health Care Urgent Care ,https://carbonhealth.com/coronavirus/covid-19-testing-centers/California,36.56586,-119.61261999999999
+20, San Joaquin Valley Rehabilitation Hospital ,https://carbonhealth.com/coronavirus/covid-19-testing-centers/California,36.84008,-119.76037
+21, 24/7 Urgent Care Clinic ,https://carbonhealth.com/coronavirus/covid-19-testing-centers/California,36.83701,-119.78126
+22, UCSF ,https://www.ucsf.edu/news/2020/03/416976/ucsf-health-sets-drive-through-testing-pre-screened-high-risk-employees,37.786097999999996,-122.448631
+23, Colorado Department of Public Health and Environment State Lab ,https://www.denverpost.com/2020/03/11/colorado-drive-thru-coronavirus-tests/,39.71696,-104.89399999999999
+24, Denver Coliseum ,https://www.colorado.gov/pacific/cdphe/covid-19-testing,39.780581700000006,-104.9719301
+25, Hartford Hospital ,https://www.courant.com/news/connecticut/hc-news-coronavirus-test-hospitals-20200309-lb54zvss6var7j7p4bfnphg4fe-story.html,41.754560999999995,-72.679231
+26, Norwalk Hospital ,https://www.thehour.com/news/coronavirus/article/Norwalk-Hospital-introduces-drive-thru-15143025.php,41.1108619,-73.42196835
+27, Bridgeport Hospital ,https://www.thehour.com/news/coronavirus/article/Drive-thru-COVID-19-testing-location-in-15140116.php,41.18947085,-73.1674697
+28, Murphy Medical Associates ,https://www.thehour.com/news/coronavirus/article/Drive-thru-COVID-19-testing-location-in-15140116.php,41.06005506,-73.5373122
+29, Greenwich Hospital ,https://www.thehour.com/news/coronavirus/article/Drive-thru-COVID-19-testing-location-in-15140116.php,41.03451,-73.63035
+30, Murphy Medical Associates ,https://www.thehour.com/news/coronavirus/article/Drive-thru-COVID-19-testing-location-in-15140116.php,41.17517,-73.12980999999999
+31, Murphy Medical Associates ,https://www.thehour.com/news/coronavirus/article/Drive-thru-COVID-19-testing-location-in-15140116.php,41.12857,-73.48484
+32, Danbury Hospital  ,https://www.thehour.com/news/coronavirus/article/Drive-thru-COVID-19-testing-location-in-15140116.php,41.40475,-73.44725
+33, Yale- New Haven ,https://www.thehour.com/news/coronavirus/article/Drive-thru-COVID-19-testing-location-in-15140116.php,41.28546,-72.92936999999999
+34, George Washington University Hospital ,https://www.washingtonpost.com/local/virginia-dc-maryland-coronavirus-news-wednesday/2020/03/18/9e49700a-6925-11ea-abef-020f086a3fab_story.html,38.900929999999995,-77.04772
+35, AllCare ,https://allcarefamilymed.com/washington-dc,38.90603,-77.03908
+36, AllCare of Rhode Island Ave. ,https://www.fox5dc.com/news/allcare-urgent-care-setting-up-coronavirus-drive-through-test-sites-in-dc-maryland-virginia,38.90603,-77.03908
+37, ChristianaCare ,https://philadelphia.cbslocal.com/2020/03/13/coronavirus-christianacare-to-offer-drive-thru-covid-19-testing-in-wilmington/,39.7348389,-75.56374090000001
+38, Bayview Medical Center ,https://www.delawarepublic.org/post/christianacare-drive-through-could-dramatically-increase-number-delawareans-tested-covid-19,38.75385,-75.16383
+39, Cleveland Clinic Martin Health ,https://www.tcpalm.com/story/news/local/martin-county/2020/03/14/coronavirus-florida-cleveland-clinic-martin-health-offer-drive-thru-testing/5051111002/,27.199390500000003,-80.2433033
+40," FoundCare, Inc. ",https://www.wptv.com/news/region-c-palm-beach-county/west-palm-beach/drive-through-coronavirus-testing-starts-monday-in-west-palm-beach,26.6417515,-80.0875967
+41, Ascension Sacred Heart  ,https://www.pnj.com/story/news/2020/03/15/pensacola-drive-through-coronavirus-testing-unit-open-monday/5053910002/,30.481178000000003,-87.210788
+42, Memorial Healthcare System in Broward County ,https://www.fox13news.com/news/national-guard-memorial-health-to-set-up-drive-through-covid-19-testing,26.019739,-80.180328
+43, Cleveland Clinic Florida ,https://www.miamiherald.com/news/coronavirus/article241328216.html,26.07709,-80.36712
+44, Broward Health  ,https://www.miamiherald.com/news/coronavirus/article241328216.html,26.275159999999996,-80.11851999999999
+45, Memorial Hospital West-C.B. Park ,https://www.miamiherald.com/news/coronavirus/article241328216.html,26.012610000000002,-80.31475
+46, BayCare ,https://www.tampabay.com/news/health/2020/03/18/baycare-tests-hundreds-in-first-morning-of-drive-thru-testing-in-tampa-bay/,27.89265,-82.66664
+47, BayCare ,https://www.tampabay.com/news/health/2020/03/18/baycare-tests-hundreds-in-first-morning-of-drive-thru-testing-in-tampa-bay/,28.22932,-82.73236999999999
+48, BayCare ,https://www.tampabay.com/news/health/2020/03/18/baycare-tests-hundreds-in-first-morning-of-drive-thru-testing-in-tampa-bay/,28.042920000000002,-82.70663
+49, BayCare ,https://www.tampabay.com/news/health/2020/03/18/baycare-tests-hundreds-in-first-morning-of-drive-thru-testing-in-tampa-bay/,27.98084,-82.50010999999999
+50, BayCare ,https://www.tampabay.com/news/health/2020/03/18/baycare-tests-hundreds-in-first-morning-of-drive-thru-testing-in-tampa-bay/,28.12605,-82.37106999999999
+51, BayCare ,https://www.tampabay.com/news/health/2020/03/18/baycare-tests-hundreds-in-first-morning-of-drive-thru-testing-in-tampa-bay/,27.893790000000003,-82.24229
+52, BayCare ,https://www.tampabay.com/news/health/2020/03/18/baycare-tests-hundreds-in-first-morning-of-drive-thru-testing-in-tampa-bay/,28.127059999999997,-81.63869
+53, Orange Country Convention Center ,https://www.wesh.com/article/drive-thru-testing-site-to-open-at-orange-county-convention-center/31923330,28.427271,-81.46970400000001
+54, Ascension St. Vincent’s ,https://www.clickorlando.com/news/local/2020/03/18/interactive-map-where-to-get-your-drive-through-coronavirus-test/,30.30759,-81.69021
+55, BayCare Health System ,https://www.clickorlando.com/news/local/2020/03/18/interactive-map-where-to-get-your-drive-through-coronavirus-test/,28.12685,-81.63859000000001
+56, City of Jacksonville | Baptist Health | Telescope Health (Prime F. Osborn III Convention Center) ,https://www.clickorlando.com/news/local/2020/03/18/interactive-map-where-to-get-your-drive-through-coronavirus-test/,30.32804,-81.67407
+57, Community Health Northwest Florida (Brownsville Community Center) ,https://www.clickorlando.com/news/local/2020/03/18/interactive-map-where-to-get-your-drive-through-coronavirus-test/,30.42356,-87.25411
+58," Community Health of South Florida, Inc. (Marathon Community Park) ",https://www.clickorlando.com/news/local/2020/03/18/interactive-map-where-to-get-your-drive-through-coronavirus-test/,24.71221,-81.08821
+59," Community Health of South Florida, Inc.(Doris Ison Health Center) ",https://www.clickorlando.com/news/local/2020/03/18/interactive-map-where-to-get-your-drive-through-coronavirus-test/,25.565929999999998,-80.35728
+60, Hillsborough County Dept of Health (Raymond James Stadium) ,https://www.clickorlando.com/news/local/2020/03/18/interactive-map-where-to-get-your-drive-through-coronavirus-test/,27.976440000000004,-82.50499
+61, Larkin Community Hospital ,https://www.clickorlando.com/news/local/2020/03/18/interactive-map-where-to-get-your-drive-through-coronavirus-test/,25.86885,-80.31281
+62, Lee Health Convenient Care ,https://www.clickorlando.com/news/local/2020/03/18/interactive-map-where-to-get-your-drive-through-coronavirus-test/,26.59184,-81.87106
+63, Manatee County Health Department (Bradenton Area Convention Center) ,https://www.clickorlando.com/news/local/2020/03/18/interactive-map-where-to-get-your-drive-through-coronavirus-test/,27.515140000000002,-82.56239000000001
+64, NCH Healthcare System ,https://www.clickorlando.com/news/local/2020/03/18/interactive-map-where-to-get-your-drive-through-coronavirus-test/,26.27415,-81.78779
+65, Premiere Medical Associates ,https://www.clickorlando.com/news/local/2020/03/18/interactive-map-where-to-get-your-drive-through-coronavirus-test/,28.951390000000004,-81.96226999999999
+66, Premiere Medical Associates ,https://www.clickorlando.com/news/local/2020/03/18/interactive-map-where-to-get-your-drive-through-coronavirus-test/,29.063240000000004,-82.2742
+67, Tallahassee Memorial HealthCare ,https://www.clickorlando.com/news/local/2020/03/18/interactive-map-where-to-get-your-drive-through-coronavirus-test/,30.466520000000003,-84.28696
+68," The City of Miami, Jackson Health Systems, Nat\'l Guard, and the University of Miami (Marlins Park) ",https://www.clickorlando.com/news/local/2020/03/18/interactive-map-where-to-get-your-drive-through-coronavirus-test/,25.77816,-80.22155
+69, University of Florida Health (The Villages Polo Club) ,https://www.clickorlando.com/news/local/2020/03/18/interactive-map-where-to-get-your-drive-through-coronavirus-test/,28.934009999999997,-81.99609
+70, The Florida Department of Health ,https://www.heraldtribune.com/news/20200326/coronavirus-florida-sarasota-county-opening-drive-thru-covid-19-testing,27.2672577,-82.4393082
+71, Valdosta\'s South Georgia Medical Center ,https://www.wctv.tv/content/news/Valdostas-South-Georgia-Medical-Center-opens-COVID-19-drive-thru-screening-station-568827821.html,30.8623305,-83.28660579999999
+72, Dept. of Public Health-West Central Health ,https://www.ledger-enquirer.com/news/coronavirus/article241245021.html,32.4832,-84.979134
+73, MercyMed of Columbus ,https://www.ledger-enquirer.com/news/coronavirus/article241245021.html,32.49828,-84.98948
+74, Piedmont Athens- Oconee Health Campus ,https://www.onlineathens.com/news/20200319/piedmont-athens-operating-coronavirus-drive-through-testing-site,33.91554,-83.46523
+75, Augusta University Health System- Christenberry Fieldhouse ,https://www.wjbf.com/lifestyle/health/coronavirus/drive-thru-covid-19-testing-coming-to-augusta-university-app-available/,33.47041,-82.042
+76, AllCare ,https://allcarefamilymed.com/atlanta-ga,33.86005,-84.37996
+77, Walgreens/ Premire Medical Group Hawaii ,https://www.kitv.com/story/41897124/hawaii-test-drives-covid19-drivethru-screening-program-in-kaneohe,21.419479,-157.80213899999998
+78, Urgent Care Hawaii-Pearl City ,https://www.hawaiinewsnow.com/2020/03/12/urgent-care-facilities-now-offering-drive-through-coronavirus-testing/,21.401629999999997,-157.97025
+79, Urgent Care Hawaii--Kapolei ,https://www.hawaiinewsnow.com/2020/03/12/urgent-care-facilities-now-offering-drive-through-coronavirus-testing/,21.33377,-158.08345
+80, Urgent Care Hawaii-Kailua ,https://www.hawaiinewsnow.com/2020/03/12/urgent-care-facilities-now-offering-drive-through-coronavirus-testing/,21.3943,-157.74309
+81, North Iowa Events Center ,https://kttc.com/2020/03/18/drive-through-testing-site-now-open-in-mason-city/,43.155429999999996,-93.20428000000001
+82, MercyOne Medical Group North Iowa ,https://globegazette.com/business/mercyone-opens-covid--testing-site-at-north-iowa-event/article_d25a5e56-c930-5236-8188-30821a6b9e75.html,43.14852,-93.25968
+83, Mountain View Hospital ,https://www.kivitv.com/news/drive-thru-covid-19-testing-available-in-idaho-falls-for-patients-with-doctor-referrals,43.478947999999995,-112.001602
+84, St. Luke\'s Meridian Medical Center ,https://www.idahostatesman.com/news/coronavirus/article241274011.html,43.598708,-116.353059
+85, St. Luke\'s Wood River Hospital ,https://www.idahostatesman.com/news/coronavirus/article241274011.html,43.648703000000005,-114.349951
+86, St. Luke\'s Elmore Medical Center ,https://www.idahostatesman.com/news/coronavirus/article241274011.html,43.13865,-115.69313100000001
+87, Saltzer Medical Group ,https://www.idahostatesman.com/news/coronavirus/article241274011.html,43.617235,-116.589524
+88, St. Luke\'s Magic Valley Medical Center ,https://www.idahostatesman.com/news/coronavirus/article241274011.html,42.590956,-114.496583
+89, Advocate Good Shepard ,https://www.fox32chicago.com/news/hospital-in-suburban-chicago-offering-drive-thru-coronavirus-testing,42.19386055,-88.18212083
+90, University of Chicago Medical Center ,https://www.nbcchicago.com/news/local/drive-thru-coronavirus-testing-available-at-some-area-hospitals-but-with-tight-restrictions/2240669/,41.7882,-87.60449
+91, Advocate Lutheran General Hospital  ,https://www.nbcchicago.com/news/local/drive-thru-coronavirus-testing-available-at-some-area-hospitals-but-with-tight-restrictions/2240669/,42.039371,-87.847572
+92, Siteman Cancer Center ,https://www.kmov.com/news/coronavirus-testing-sites-in-st-louis-metro-east/article_9cfe09b2-6e9e-11ea-aa94-ff81cfe55d65.html,38.5638097,-89.98395440000002
+93, SSM Health Good Samaritan Hospital ,https://www.kmov.com/news/coronavirus-testing-sites-in-st-louis-metro-east/article_9cfe09b2-6e9e-11ea-aa94-ff81cfe55d65.html,38.297049799999996,-88.93928740000001
+94, Roseland Community Hospital ,https://chicago.suntimes.com/coronavirus/2020/3/24/21191831/map-heres-where-to-get-tested-coronavirus-chicago-illinois-covid-19,41.69232,-87.62566
+95," Northwestern Memorial Hospital, Lavin Family Pavillion ",https://www.nm.org/conditions-and-care-areas/infectious-disease/covid-19,41.894890000000004,-87.62119
+96, Rush University Medical Center ,https://www.rushu.rush.edu/about/novel-coronavirus-covid-19-information,41.87486,-87.66898
+97, Innovative Express Care ,https://innovativecorona.com,41.92522,-87.6683
+98," Illinois Department of Public Health, Harwood Heights Community Testing Site ",https://www.dph.illinois.gov/topics-services/diseases-and-conditions/diseases-a-z-list/coronavirus,41.955870000000004,-87.80308000000001
+99, Walmart ,https://corporate.walmart.com/newsroom/2020/03/22/stepping-up-and-helping-out-how-were-supporting-coronavirus-testing-efforts,41.90683,-87.90938
+100, NorthShore University HealthSystem ,https://www.northshore.org/healthy-you/novel-coronavirus-2019/,42.061729,-87.761108
+101, Edward-Elmhurst Health ,https://www.eehealth.org/coronavirus/,41.8089,-88.16605
+102, Walmart ,https://corporate.walmart.com/newsroom/2020/03/22/stepping-up-and-helping-out-how-were-supporting-coronavirus-testing-efforts,41.51891,-88.14235
+103, Walgreens ,https://news.walgreens.com/our-stories/covid-19-faq.htm,41.70601,-88.09575
+104, Franciscian Health Michigan City  ,https://www.nbcchicago.com/news/local/northwest-indiana-hospital-to-offer-drive-thru-coronavirus-testing/2238420/,41.708079999999995,-86.87795
+105, Deaconess Midtown Hospital  ,https://www.courierpress.com/story/news/2020/03/17/indiana-coronavirus-testing-near-me-how-to-get-tested-deaconess-evansville/5075207002/,37.98316,-87.57121
+106, Stormont Vail ,https://www.wibw.com/content/news/Stormont-Vail--568851271.html,39.0516701,-95.6950282
+107, Sharon Lee Family Health Clinic ,https://www.kmbc.com/article/kansas-city-kansas-clinic-opens-up-drive-thru-covid-19-testing-location-sharon-lee-family-health-clinic/31788682,39.06843,-94.61367
+108," Saint Luke\'s Multispecialty Clinc, Mission Farms ",https://www.saintlukeskc.org/about/news/saint-lukes-news-three-covid-19-drive-thru-testing-sites-set-qualifying-saint-lukes,38.93635,-94.63797
+109, Bluegrass Extended Care Medicine ,https://www.kentucky.com/news/coronavirus/article241328346.html,38.019709999999996,-84.55700999999999
+110, Integrity Extended Healthcare ,https://www.kentucky.com/news/coronavirus/article241328346.html,37.621281,-84.76403
+111, Baton Rouge General Medical Center ,https://www.wrkf.org/post/louisianas-first-drive-thru-covid-19-testing-clinic-opens-baton-rouge,30.449546299999998,-91.1530923
+112, Mahalia Jackson Theatre ,https://www.wwno.org/post/drive-through-testing-launches-new-orleans-and-across-louisiana-here-are-locations,29.961540000000003,-90.07054000000001
+113, University of New Orleans Lakefront Arena ,https://www.wwno.org/post/drive-through-testing-launches-new-orleans-and-across-louisiana-here-are-locations,30.030509999999996,-90.04930999999999
+114, Alario Event Center ,https://www.usnews.com/news/best-states/louisiana/articles/2020-03-21/louisiana-expands-drive-thru-testing-for-coronavirus,29.89746,-90.16709
+115, Office of Public Health - Rapides Parish Coliseum ,https://www.kalb.com/content/news/COVID-19-testing-begins-in-Alexandria-Wednesday--569056131.html,31.2964,-92.50381999999999
+116, Burton Coliseum Complex ,https://www.ktbs.com/news/louisiana/west-cal-cam-hospital-serving-as-testing-site-for-covid/article_f9d5bbf6-5fda-5659-9254-e9354ff5e986.html,30.13968,-93.21356999999999
+117, SWLA Center for Health Services ,https://www.ktbs.com/news/louisiana/west-cal-cam-hospital-serving-as-testing-site-for-covid/article_f9d5bbf6-5fda-5659-9254-e9354ff5e986.html,30.241059999999997,-93.1927
+118, Moss Memorial Health Clinic ,https://www.ktbs.com/news/louisiana/west-cal-cam-hospital-serving-as-testing-site-for-covid/article_f9d5bbf6-5fda-5659-9254-e9354ff5e986.html,30.18283,-93.20795
+119, New Orleans East Hospital ,https://www.fox8live.com/2020/03/25/new-orleans-east-hospital-opens-drive-thru-covid-testing-site/,30.031229999999997,-89.97188
+120, Odyssey House Louisiana ,https://www.bigeasymagazine.com/2020/03/27/odyssey-house-louisiana-opens-testing-for-bike-riders/,29.95083,-90.09983000000001
+121, Thibodaux Regional Health System ,https://www.wwltv.com/article/news/health/coronavirus/drive-thru-coronavirus-test-locations-in-southeast-louisiana/289-ea7f65ac-49ac-4516-8f20-ad26184ff08d,29.784470000000002,-90.80975
+122, TGMC Medical Arts facility ,https://www.wwltv.com/article/news/health/coronavirus/drive-thru-coronavirus-test-locations-in-southeast-louisiana/289-ea7f65ac-49ac-4516-8f20-ad26184ff08d,29.59628,-90.71584
+123, CrescentCare ,https://crescentcarehealth.org/,29.97379,-90.05644000000001
+124, Ochsner Urgent Care - Mid City ,https://www.fox8live.com/2020/03/25/new-orleans-east-hospital-opens-drive-thru-covid-testing-site/,29.97502,-90.10138
+125, Ochsner Urgent Care – Houma ,https://www.fox8live.com/2020/03/25/new-orleans-east-hospital-opens-drive-thru-covid-testing-site/,29.59827,-90.70781
+126, Ochsner Urgent Care – Mandeville ,https://www.fox8live.com/2020/03/25/new-orleans-east-hospital-opens-drive-thru-covid-testing-site/,30.38717,-90.07984
+127, West Jefferson Medical Center ,https://wgno.com/news/health/coronavirus/west-jefferson-medical-center-now-offering-drive-thru-screening-center/,29.89156,-90.09493
+128, St. Elizabeth Hospital ,https://www.theadvocate.com/baton_rouge/news/coronavirus/article_d741b620-6a00-11ea-a18b-9786b1db17a6.html,30.209809999999997,-90.93235
+129, Cape Cod Community College ,https://www.wpri.com/health/coronavirus/massachusetts-officials-offering-drive-thru-testing-for-coronavirus/,41.688,-70.33643000000001
+130, Cape Cod Hospital ,https://www.nbcboston.com/news/local/remote-coronavirus-testing-facilities-begin-to-open-in-mass/2093138/,41.652951,-70.273178
+131, AFC Urgent Care Waltham ,https://whdh.com/news/waltham-opens-drive-thru-coronavirus-testing-site/,42.376062,-71.252789
+132, UMassMemorial HealthAlliance — Clinton Hospital ,https://www.telegram.com/news/20200321/fitchburg-covid-19-patient-quarantined-drive-thru-testing-at-leominster-hospital,42.541043,-71.76191800000001
+133, Falmouth Hospital ,https://www.nbcboston.com/news/local/remote-coronavirus-testing-facilities-begin-to-open-in-mass/2093138/,41.564415000000004,-70.62230699999999
+134, Cape Cod Hospital ,https://www.nbcboston.com/news/local/remote-coronavirus-testing-facilities-begin-to-open-in-mass/2093138/,41.653488,-70.273262
+135, LifeBridge Health / Carroll Hospital  ,https://www.baltimoresun.com/coronavirus/bs-hs-coronavirus-testing-20200313-chwl7t7qqffmfp3o5xu4ciadby-story.html,39.558286100000004,-76.990377
+136, University of Maryland Upper Chesapeake Health ,https://baltimore.cbslocal.com/2020/03/13/coronavirus-in-maryland-upper-chesapeake-health-offers-drive-thru-testing/,39.5191344,-76.3463844
+137, Medstar St. Mary\'s Hospital  ,https://www.nbcwashington.com/news/local/drive-through-coronavirus-testing-site-to-open-in-arlington/2244941/,38.29958962,-76.64078128
+138, Chesapeake ERgent Care ,https://www.capitalgazette.com/coronavirus/ac-cn-anne-arundel-county-coronavirus-drive-thru-location-20200320-v2s6h2e36rb4ri5pjzug4etese-story.html,39.02564,-76.68894499999999
+139, AllCare ,https://baltimore.cbslocal.com/2020/03/24/list-maryland-coronavirus-testing-sites-drive-thrus-triage-tents-more/,39.27774,-76.83596
+140, MedStar Health\xa0 ,https://www.mymcmedia.org/medstar-offers-drive-thru-covid-19-testing-in-bethesda/,39.0244563,-77.1586483
+141, Northern Light Eastern Maine Medical Center ,https://www.mainepublic.org/post/drive-coronavirus-testing-site-open-bangors-bass-park,44.808092200000004,-68.7517371
+142, Northern Light Mercy Hospital - Fore River ,https://www.mainepublic.org/post/drive-coronavirus-testing-site-open-bangors-bass-park,43.6482745,-70.28214150000001
+143, Northern Light Inland Hospital ,https://www.centralmaine.com/2020/03/18/waterville-augusta-hospitals-starting-up-outdoor-coronavirous-testing-sites/,44.54271,-69.66147
+144, Henry Ford Allegiance Health ,https://www.crainsdetroit.com/coronavirus/southeast-michigan-hospitals-begin-drive-through-coronavirus-testing,42.25472,-84.46568
+145," Beaumont Hospital, Royal Oak ",https://www.crainsdetroit.com/coronavirus/southeast-michigan-hospitals-begin-drive-through-coronavirus-testing,42.51538660000001,-83.193281
+146," Beaumont Hospital, Dearborn ",https://www.crainsdetroit.com/coronavirus/southeast-michigan-hospitals-begin-drive-through-coronavirus-testing,42.289891600000004,-83.2147379
+147," Beaumont Hospital, Troy ",https://www.crainsdetroit.com/coronavirus/southeast-michigan-hospitals-begin-drive-through-coronavirus-testing,42.6191539,-83.09257240000001
+148," Beaumont Hospital, Framington Hills ",https://www.crainsdetroit.com/coronavirus/southeast-michigan-hospitals-begin-drive-through-coronavirus-testing,42.4463793,-83.323736
+149, Spectrum Health ,https://www.woodtv.com/health/coronavirus/spectrum-opens-drive-thru-covid-19-testing-by-appointment-only/,42.96942,-85.6364292
+150, Detroit Medical Center at the State Fairgrounds ,https://www.clickondetroit.com/news/local/2020/03/25/drive-up-coronavirus-covid-19-testing-site-opens-friday-in-detroit-how-it-works/,42.489871,-83.503811
+151, Detroit City Health ,https://www.fox2detroit.com/news/drive-thru-testing-in-detroit-starts-today-heres-how-it-works,42.44377,-83.117374
+152, Mayo Family Clinic Northwest ,https://www.postbulletin.com/life/health/mayo-clinic-starts-drive-thru-testing-for-covid/article_0087a856-63e3-11ea-be76-c7558f932526.html,44.01921,-92.48793
+153, Essentia Health St. Joseph\'s-Baxter Clinic ,https://minnesota.cbslocal.com/2020/03/20/coronavirus-in-minnesota-limited-availability-of-covid-19-tests-changes-testing-criteria/,46.33847,-94.255641
+154, Mercy Virtual Care Center  ,https://www.kmov.com/news/mercy-collects-tests-during-first-day-of-drive-thru-coronavirus/article_f0f7b6e0-6641-11ea-b072-4f11b4b9c67e.html,38.65146299,-90.55890626
+155, Mercy First Aid ,https://www.kmov.com/news/drive-thru-coronavirus-testing-st-louis/article_fcfe1b76-653a-11ea-a969-6325dab7a63e.html,38.565143,-91.03018900000001
+156, Boone Hospital ,https://krcgtv.com/news/local/boone-hospital-mu-health-care-offer-drive-thru-coronavirus-testing,38.949927,-92.315857
+157, University of Missouri Health Care ,https://krcgtv.com/news/local/boone-hospital-mu-health-care-offer-drive-thru-coronavirus-testing,38.938211100000004,-92.3285737
+158, Saint Luke\'s Health System- Blue Springs ,https://www.saintlukeskc.org/about/news/saint-lukes-news-three-covid-19-drive-thru-testing-sites-set-qualifying-saint-lukes,39.02101,-94.24731
+159, MetLIfe Building ,https://www.kmov.com/news/drive-thru-coronavirus-testing-st-louis/article_fcfe1b76-653a-11ea-a969-6325dab7a63e.html,38.4925027,-90.3858912
+160, Hillsboro Community Civic Club Jefferson County Fairgrounds ,https://www.kmov.com/news/drive-thru-coronavirus-testing-st-louis/article_fcfe1b76-653a-11ea-a969-6325dab7a63e.html,38.2420593,-90.5621057
+161, Saint Luke\'s Primary Care- Shoal Creek ,https://www.saintlukeskc.org/about/news/saint-lukes-news-three-covid-19-drive-thru-testing-sites-set-qualifying-saint-lukes,39.2422,-94.4659
+162, Med Plus Clinic ,https://www.djournal.com/news/drive-thru-covid--testing-available-in-tupelo-fulton/article_9e90d89f-df00-53a4-85e5-4c65deac3a24.html,34.3159308,-88.7050755
+163, Med Plus Clinic ,https://www.djournal.com/news/drive-thru-covid--testing-available-in-tupelo-fulton/article_9e90d89f-df00-53a4-85e5-4c65deac3a24.html,34.2397644,-88.40026920000001
+164, OCH Regional Medical Center: ,https://www.clarionledger.com/story/news/2020/03/18/what-we-know-coronavirus-mississippi/5074317002/,33.47612,-88.82113000000001
+165, Huxford Clinic ,https://www.starkvilledailynews.com/update-five-covid--cases-now-confirmed-for-oktibbeha-county/article_7ee22ac6-6d0e-11ea-ac18-0b1efd996a05.html,33.47396,-88.82079
+166, University of Mississippi Medical Center ,https://umc.edu/,32.329521,-90.174492
+167, TUPELO • MedPlus Family and Urgent Care ,https://www.djournal.com/news/drive-thru-covid--testing-available-in-tupelo-fulton/article_9e90d89f-df00-53a4-85e5-4c65deac3a24.html,34.24065,-88.40035
+168, TUPELO • MedPlus Family and Urgent Care ,https://www.djournal.com/news/drive-thru-covid--testing-available-in-tupelo-fulton/article_9e90d89f-df00-53a4-85e5-4c65deac3a24.html,34.31548,-88.70468000000001
+169, Bozeman Health Belgrade Clinic + Urgent Care ,https://www.khq.com/regional/bozeman-health-to-offer-covid--drive-up-test-sites/article_cfa2f69e-2653-56ad-9d61-8d8b585bcbac.html,45.766000000000005,-111.18043999999999
+170, Bozeman Health Outpatient Services ,https://www.khq.com/regional/bozeman-health-to-offer-covid--drive-up-test-sites/article_cfa2f69e-2653-56ad-9d61-8d8b585bcbac.html,45.681020000000004,-111.06143
+171, Biltmore Church ,https://www.citizen-times.com/story/news/local/2020/03/17/coronavirus-nc-buncombe-opens-covid-19-drive-thru-testing-sites/5066530002/,35.4870769,-82.56717590000001
+172, UNC Asheville Health ,https://www.citizen-times.com/story/news/local/2020/03/17/coronavirus-nc-buncombe-opens-covid-19-drive-thru-testing-sites/5066530002/,35.613563899999995,-82.56124940000001
+173, Novant Health GoHealth Urgentcare ,https://www.charlotteobserver.com/news/coronavirus/article241267766.html,36.11247,-80.08572
+174, Novant Health GoHealth Urgentcare ,https://www.charlotteobserver.com/news/coronavirus/article241267766.html,35.44388,-80.87245
+175, Novant Health GoHealth Urgentcare ,https://www.charlotteobserver.com/news/coronavirus/article241267766.html,36.05976,-80.14929000000001
+176, Tyron Medical ,https://www.charlotteobserver.com/news/coronavirus/article241267766.html.,35.121809999999996,-80.72925
+177, Trinity Medical Arts Clinic ,https://www.kfyrtv.com/content/news/Health-officials-discuss-COVID-19-testing-protocols-in-Minot--568873751.html,48.23226,-101.286197
+178, Anova Family Health Center ,https://www.kfyrtv.com/content/news/Watford-City-drive-by-COVID-19-testing-568980691.html,47.80079,-103.26293000000001
+179, Sanford Health ,https://www.inforum.com/lifestyle/health/5001843-Fargo-hospitals-rush-to-prep-for-coronavirus-Sanford-offers-drive-thru-tests-Essentia-suspends-routine-visits,46.85324,-96.79744000000001
+180, Bryan Urgent Care ,https://www.bryanhealth.com/about-bryan-health/news/2020/bryan-health-implements-new-measures-in-response-to-covid-19-pan/,40.7340951,-96.6840854
+181, New Hampshire National Gaurd Armory ,https://www.unionleader.com/news/health/coronavirus/mobile-test-site-open-besieged-in-manchester/article_6c059ee3-1f70-55b5-89a9-77025065d5be.html,43.00201,-71.46631
+182, Elliot Hospital ,https://patch.com/new-hampshire/londonderry/elliot-hospital-sets-drive-thru-testing,42.984138,-71.43731700000001
+183, Keady Family Practice (Claremont) ,https://www.eagletimes.com/news/keady-family-practice-opens-city-s-first-covid--drive/article_acb871d9-3f69-5107-8528-c2677b146c67.html,43.371359999999996,-72.32673
+184, Riverside Medical Group ,http://newjersey.news12.com/story/41896736/drivethru-testing-facility-for-coronavirus-set-up-in-secaucus,40.7936668,-74.0687306
+185, Bergen County Community College ,https://www.nj.com/coronavirus/2020/03/nj-setting-up-coronavirus-test-collection-center-in-bergen-county.html,40.95154,-74.09383000000001
+186, Holy Name Medical Center ,https://www.northjersey.com/story/news/bergen/teaneck/2020/03/14/holy-name-medical-testing-patients-coronavirus-tents-outside-er/5050682002/,40.887932,-74.005348
+187, IMMEDIATE CARE , http://immcare.com/locations/marlboro-location/,40.333453399999996,-74.24191359999999
+188, Lovelace Medical Center PRESNow ,https://www.abqjournal.com/1431891/lovelace-tests-hundreds-runs-low-on-supplies.html,35.1343734,-106.70220220000002
+189, PMG Urgent Care ,https://www.krqe.com/health/coronavirus-new-mexico/hundreds-get-tested-in-hospital-coronavirus-drive-thru/,35.127167,-106.7089755
+190, UNLV Medicine ,https://www.fox5vegas.com/coronavirus/unlv-medicine-to-offer-curbside-covid--testing-by-appointment/article_abda7702-6d6f-11ea-bca3-2fd2e4046f6c.html,36.1581,-115.16431499999999
+191, Glen Island Park ,https://www.amny.com/editorial/drive-thru-covid-19-testing-in-new-rochelle-will-soon-expand-elsewhere/,40.884640000000005,-73.783813
+192, South Beach Psychiatric Center ,https://nypost.com/2020/03/19/nycs-first-drive-thru-coronavirus-testing-site-opens-on-staten-island/,40.5822,-74.07947
+193, NYS Gonvernment ,https://libn.com/2020/03/18/nys-opens-second-drive-thru-covid-19-testing-site-on-long-island/,40.897870000000005,-73.12961999999999
+194, NYS Government ,https://www.longislandpress.com/2020/03/17/drive-through-coronavirus-test-site-opening-tuesday-at-jones-beach/,40.60717,-73.50289000000001
+195, NYS Government-run ProHEALTH Urgent Care in Jericho ,https://www.longislandpress.com/2020/03/18/2-more-drive-through-coronavirus-test-sites-open-in-jericho-stony-brook/,40.79078,-73.53797
+196, NYC Health + Hospitals/Jacobi ,https://www.nbcnewyork.com/news/local/where-are-coronavirus-testings-sites-in-tri-state-and-how-do-they-work/2333890/,40.856522,-73.84736600000001
+197, Coney Island Hospital ,https://www.nbcnewyork.com/news/local/where-are-coronavirus-testings-sites-in-tri-state-and-how-do-they-work/2333890/,40.585209000000006,-73.96530899999999
+198, Queens Hospital Center ,https://www.nbcnewyork.com/news/local/where-are-coronavirus-testings-sites-in-tri-state-and-how-do-they-work/2333890/,40.716091,-73.803032
+199, Kings County Hospital Center ,https://www.nbcnewyork.com/news/local/where-are-coronavirus-testings-sites-in-tri-state-and-how-do-they-work/2333890/,40.65654,-73.943497
+200, Nuvance Health ,https://www.dutchessny.gov/Departments/DBCH/Nuvance-Health-Opens-COVID-19-Collection-Sites-in-Dutchess-Ulster-Counties.htm,41.52227,-73.97357
+201, NYS Government ,https://www.lohud.com/story/news/health/2020/03/18/coronavirus-drive-thru-testing-center-opens-rockland/2864688001/,41.31993,-73.99192
+202, Ulster County Health Department and Nuvance Health ,https://www.dailyfreeman.com/news/local-news/ulster-county-s-first-drive-through-covid--testing-site/article_2b676642-6c80-11ea-977d-0baf9bceeb58.html,41.97017,-73.99835
+203, University of Dayton Arena ,https://www.daytondailynews.com/news/local/coronavirus-drive-testing-begins-dayton/MHZE4hK57NOB3RIVT0HgXL/,39.7358407,-84.1999699
+204, UC Health West Medical  ,https://www.cincinnati.com/story/news/2020/03/17/coronavirus-ohio-uc-health-opens-testing-tent-corryville/5067052002/,39.120435799999996,-84.5023411
+205, UH Landerbrook Health Center ,https://fox8.com/news/coronavirus/university-hospitals-cleveland-clinic-add-second-drive-thru-testing-site/,41.503254999999996,-81.469037
+206, Jameson Crane Sports Medicine Institute ,https://www.nbc4i.com/community/health/coronavirus/osu-wexner-medical-center-opening-drive-thru-covid-19-testing-sites-for-patients/,40.017815,-83.031645
+207, Mercer County Fairgrounds ,https://www.whio.com/news/local/coronavirus-drive-thru-testing-center-opens-today-mercer-county-fairgrounds/sFEiQ8qorp5Qxs2Gk938vO/,40.550191999999996,-84.58388599999999
+208, University Hospitals ,https://www.uhhospitals.org/healthcare-update/covid-19-testing-locations,41.503029999999995,-81.47012
+209, Access Solutions Medical Group ,https://www.newson6.com/story/41907765/oklahoma-primary-care-provider-sets-up-drivethru-coronavirus-covid19-testing,36.07585,-95.90312
+210, Comanche County Memorial Hospital ,https://www.kswo.com/2020/03/19/lawton-drive-thru-clinic-begins-coronavirus-testing/,34.610622,-98.433835
+211, McAllister Expo Center ,https://kfor.com/health/coronavirus/initial-drive-thru-testing-sites-get-underway-around-oklahoma/,34.944556,-95.824984
+212, Oregon Health & Science University ,https://katu.com/news/coronavirus/ohsu-launches-in-house-coronavirus-testing-drive-thru-testing-for-first-responders,45.5195909,-122.9782249
+213, Virginia Garcia Memorial Health Center ,https://www.kptv.com/news/virginia-garcia-memorial-joins-ohsu-providence-in-providing-drive-thru/article_452986ea-70aa-11ea-9057-1f36537964c6.html,45.520804,-122.97671559999999
+214, Providence Health & Services ,https://katu.com/news/coronavirus/providence-launches-pilot-program-for-drive-thru-coronavirus-testing-in-portland-area,45.5267949,-122.61166770000001
+215, Penn Medicine Radnor ,https://www.phillyvoice.com/coronavirus-testing-drive-thru-philadelphia-penn-medicine-covid-19/,40.042680600000004,-75.35820079999999
+216, Main Line Health Center in Newtown Square ,https://www.phillyvoice.com/coronavirus-testing-drive-thru-philadelphia-penn-medicine-covid-19/,39.9871109,-75.4102349
+217, Central Outreach Wellness Center ,https://www.wtae.com/article/drive-thru-coronavirus-testing-sites-pittsburgh/31661550#,40.44873,-80.00085
+218, Central Outreach Wellness Center ,https://www.wtae.com/article/drive-thru-coronavirus-testing-sites-pittsburgh/31661550#,40.18195,-80.24088
+219, Central Outreach Wellness Center ,https://www.wtae.com/article/drive-thru-coronavirus-testing-sites-pittsburgh/31661550#,40.61188,-80.28631999999999
+220, Temple University- Ambler Campus  ,https://6abc.com/health/covid19-montco-cases-jump-to-55;-drve-thru-testing-opens-saturday/6028819/,40.16529,-75.19731999999999
+221, Abington Hospital ,https://6abc.com/6045920/,40.119158,-75.11986
+222, Montgomery County ,https://www.montcopa.org/3504/Community-Based-Testing-Site,40.168847799999995,-75.202612
+223, University of Pennsylvania Health System - Radnor ,https://6abc.com/6045920/,40.043792700000004,-75.3570679
+224, Genesis Diagnostics ,https://6abc.com/6045920/,40.188674400000004,-74.8782367
+225, Jefferson Bucks Hospital ,https://6abc.com/6045920/,40.18303579999999,-74.86747390000001
+226, Jefferson University Hospital - Center City Philadelphia ,https://6abc.com/6045920/,39.9495623,-75.1580318
+227, University of Pennsylvania Health System - West Philadelphia ,https://6abc.com/6045920/,39.9571828,-75.2049202
+228, Citizens Bank Park ,https://www.nbcphiladelphia.com/news/coronavirus/area-near-citizens-bank-park-set-to-open-drive-thru-coronavirus-testing/2334341/,39.906971,-75.166443
+229, Philadelphia Rite Aid ,https://twitter.com/KellyRuleTV/status/1242043700840202240?ref_src=twsrc%5Etfw%7Ctwcamp%5Etweetembed&ref_url=https%3A%2F%2Fwww.fox29.com%2Fnews%2Fwhere-to-get-tested-for-covid-19-in-the-philadelphia-area,40.0675236,-75.1561078
+230, Jefferson Torresdale Hospital ,https://6abc.com/6045920/,40.0716695,-74.9832205
+231, Jefferson Frankford Hospital ,https://6abc.com/6045920/,40.0200094,-75.08136479999999
+232, MUSC Health West Ashley Medical Pavilion ,https://web.musc.edu/about/news-center/2020/03/12/covid-19-drive-thru,32.7977875,-80.0307564
+233, Prisma Health Richland Hospital North Portal ,https://www.wistv.com/2020/03/16/prisma-health-offer-limited-drive-thru-coronavirus-testing-sc/,34.02787,-81.0333
+234, Prisma Health Greenville Memorial Medical Campus ,https://www.wistv.com/2020/03/16/prisma-health-offer-limited-drive-thru-coronavirus-testing-sc/,34.82148,-82.41377
+235, Sandhills Medical Foundation ,https://www.postandcourier.com/health/covid19/hotbed-of-sc-s-coronavirus-outbreak-to-launch-drive-thru/article_03d6dc98-6956-11ea-a7ce-0f8a53df1a65.html,34.27707,-80.61193
+236, Avera Sacred Heart Hospital ,https://wnax.com/news/180081-coronavirus-testing-drive-thru-set-up-in-yankton/,42.8732829,-97.4077838
+237, Monument Health Rapid City Urgent Care ,https://www.newscenter1.tv/monument-health-adding-drive-through-testing-for-coronavirus/,44.0733552,-103.2547728
+238, Sanford Health ,https://brookingsregister.com/article/south-dakota-hospitals-start-covid-19-testing,43.535542,-96.742432
+239, Avera Health  ,https://brookingsregister.com/article/south-dakota-hospitals-start-covid-19-testing,43.492699,-96.774002
+240, Womens Health Care Group ,https://wreg.com/news/shelby-county-clinic-offering-drive-through-coronavirus-testing/,35.31661,-89.63574
+241, East Tennessee Medical Group ,https://www.wate.com/news/drive-through-coronavirus-testing-now-available-in-blount-county/,35.76768,-83.97725
+242, University of Tennessee Health Science ,https://wreg.com/news/coronavirus/drive-through-virus-testing-site-expected-to-serve-150-patients/,35.12,-89.9801782
+243, Murfreesboro Medical Clinic ,https://www.mmclinic.com/www/blog/viewpost/203,35.867020000000004,-86.42328
+244, Baylor Scott and White ,https://www.texastribune.org/2020/03/14/coronavirus-updates-texas-congress-passes-free-coronavirus-testing-bil/,30.393259999999998,-97.72023
+245, Parkland Hospital ,https://www.wfaa.com/article/news/health/coronavirus/live-covid-19-updates-march-15-2020/287-1b000215-9432-4b2b-8550-a6ab2710768f,32.8126539,-96.8359325
+246, My Family Doctor clinic ,https://www.houstonchronicle.com/news/houston-texas/houston/article/Houston-clinic-offering-drive-thru-testing-already-15137860.php,29.7114865,-95.4942494
+247, UT Health Austin ,https://uthealthaustin.org/patient-resources/covid-19-updates/covid-19-patient-protection,30.277420000000003,-97.73531
+248, Dallas County Public Health ,https://www.dallascounty.org/covid-19/testing-locations.php,32.7903,-96.8102
+249, Dallas County Public Health ,https://www.wbap.com/2020/03/20/dallas-opens-two-covid-19-testing-sights/,32.63792,-96.84311
+250, Shannon Medical Center ,https://www.shannonhealth.com/education-and-resources/covid-19-information/,31.465320000000002,-100.43475
+251, Davis Hospital and Medical Center ,https://www.abc4.com/news/health/coronavirus/steward-medical-center-offers-free-drive-thru-coronavirus-testing-in-utah/,41.09111,-111.99523
+252, Jordan Valley Medical Center ,https://www.abc4.com/news/health/coronavirus/steward-medical-center-offers-free-drive-thru-coronavirus-testing-in-utah/,40.590379999999996,-111.97419
+253, Mountain Point Medical Center ,https://www.abc4.com/news/health/coronavirus/steward-medical-center-offers-free-drive-thru-coronavirus-testing-in-utah/,40.42521,-111.8785
+254, Univ of Utah - Sugar House Health Center ,https://healthcare.utah.edu/publicaffairs/news/2020/03/covid19-evaluations.php,40.72113,-111.85386000000001
+255, Univ of Utah - Redwood Health Center ,https://healthcare.utah.edu/publicaffairs/news/2020/03/covid19-evaluations.php,40.72575,-111.93269
+256, Univ of Utah - South Jordan Health Center ,https://healthcare.utah.edu/publicaffairs/news/2020/03/covid19-evaluations.php,40.54198,-112.0132
+257, Univ of Utah - Farmington Health Center ,https://healthcare.utah.edu/publicaffairs/news/2020/03/covid19-evaluations.php,40.98295,-111.90913
+258, (low tests / suspended) Sentara Princess Anne Hospital ,https://www.13newsnow.com/article/news/health/coronavirus/sentara-offers-drive-thru-screening-testing-for-covid-19/291-6e5d3ead-203c-448a-9da7-e3c7f584671b,36.7752571,-76.0988283
+259, (low tests / suspended) Sentara Williamsburg Regional Medical Center ,https://www.13newsnow.com/article/news/health/coronavirus/sentara-offers-drive-thru-screening-testing-for-covid-19/291-6e5d3ead-203c-448a-9da7-e3c7f584671b,37.336665,-76.74089000000001
+260, (low tests / suspended) Sentara Edinburgh ,https://www.13newsnow.com/article/news/health/coronavirus/sentara-offers-drive-thru-screening-testing-for-covid-19/291-6e5d3ead-203c-448a-9da7-e3c7f584671b,36.6527646,-76.23089399999999
+261, Virginia Hospital Center ,https://www.nbcwashington.com/news/local/drive-through-coronavirus-testing-site-to-open-in-arlington/2244941/,38.8893156,-77.10692970000001
+262, Alexandria Immediate Care ,https://www.fox5dc.com/news/allcare-urgent-care-setting-up-coronavirus-drive-through-test-sites-in-dc-maryland-virginia,38.79391,-77.05453
+263, Virginia Hospital Center ,https://www.princewilliamtimes.com/news/northern-virginia-s-first-drive-thru-covid--testing-site/article_2c4075e0-68c0-11ea-8ca9-470e1a6deeb5.html,38.88941,-77.1069
+264, Southwestern Vermont Medical Center ,https://www.burlingtonfreepress.com/story/news/local/2020/03/09/vermont-hospital-treating-states-covid-19-case-drive-up-test/4998718002/,42.874199,-73.20755
+265, Porter Medical Center ,https://addisonindependent.com/news/porter-hospital-sets-drive-through-covid-19-testing,43.999889,-73.168541
+266, Univ of Vermont Medical Center ,https://www.vpr.org/post/drive-thru-swab-then-lab-how-uvmmcs-covid-19-testing-works#stream/0,44.496349,-73.12284100000001
+267, UW Medical Center Northwest ,https://www.geekwire.com/2020/uw-medicine-opens-drive-coronavirus-testing-station-patients-appointment/,47.71413,-122.336998
+268, Kaiser Permanente Lynnwood Medical Center ,https://www.kiro7.com/news/local/where-are-coivd-19-drive-thru-test-sites-western-washington/FF47QNZ6OZGMVPQIM5YIEDMG3M/,47.81467049,-122.3060784
+269, Kaiser Permanente Puyallup Medical Center ,https://www.kiro7.com/news/local/where-are-coivd-19-drive-thru-test-sites-western-washington/FF47QNZ6OZGMVPQIM5YIEDMG3M/,47.15482636,-122.2791635
+270, Kaiser Permanente Factoria Medical Center ,https://www.kiro7.com/news/local/where-are-coivd-19-drive-thru-test-sites-western-washington/FF47QNZ6OZGMVPQIM5YIEDMG3M/,47.57937631,-122.1604894
+271, Kaiser Permanente Olympia Medical Center ,https://www.kiro7.com/news/local/where-are-coivd-19-drive-thru-test-sites-western-washington/FF47QNZ6OZGMVPQIM5YIEDMG3M/,47.05689595,-122.8422618
+272, Seattle Kaiser Permanente Capitol Hill Campus ,https://www.kiro7.com/news/local/where-are-coivd-19-drive-thru-test-sites-western-washington/FF47QNZ6OZGMVPQIM5YIEDMG3M/,47.61988495,-122.312075
+273, Kaiser Permanente Silverdale Medical Center ,https://www.kiro7.com/news/local/where-are-coivd-19-drive-thru-test-sites-western-washington/FF47QNZ6OZGMVPQIM5YIEDMG3M/,47.65804056,-122.6866795
+274, Kaiser Permanente Burien Medical Center ,https://www.kiro7.com/news/local/where-are-coivd-19-drive-thru-test-sites-western-washington/FF47QNZ6OZGMVPQIM5YIEDMG3M/,47.47235926,-122.336055
+275, Swedish Issaquah Campus ,https://www.kiro7.com/news/local/where-are-coivd-19-drive-thru-test-sites-western-washington/FF47QNZ6OZGMVPQIM5YIEDMG3M/,47.535712100000005,-122.02176809999999
+276, Swedish First Hill ,https://www.kiro7.com/news/local/where-are-coivd-19-drive-thru-test-sites-western-washington/FF47QNZ6OZGMVPQIM5YIEDMG3M/,47.6063055,-122.3217666
+277, Swedish Edmonds Campus ,https://www.kiro7.com/news/local/where-are-coivd-19-drive-thru-test-sites-western-washington/FF47QNZ6OZGMVPQIM5YIEDMG3M/,47.80280535,-122.33359109999998
+278, Snohomish Health District and the Medical Reserve Corps ,https://www.snohd.org/503/Drive-Thru-Testing-Available-by-Appointm,47.96529,-122.201462
+279, Spokane Regional Health ,https://www.spokesman.com/stories/2020/mar/25/covid-19-cases-in-spokane-county-have-doubled-in-2/,47.662327000000005,-117.34641299999998
+280, Froedtrent South Pleasant Prarie Clinic ,https://www.tmj4.com/news/coronavirus/froedtert-south-opens-drive-thru-coronavirus-testing-site-in-kenosha-county,42.5551949,-87.890865
+281, Ascension SE Wisconsin Hospital - Franklin Campus ,https://fox6now.com/2020/03/23/ascension-wisconsin-launches-drive-through-covid-19-testing-sites/,42.860131,-87.954226
+282, Ascension Columbia St. Mary’s Milwaukee - Gateway Clinic ,https://fox6now.com/2020/03/23/ascension-wisconsin-launches-drive-through-covid-19-testing-sites/,43.023839,-88.001345
+283, Ascension Wisconsin Health Center – Mount Pleasant Urgent Care ,https://fox6now.com/2020/03/23/ascension-wisconsin-launches-drive-through-covid-19-testing-sites/,42.720924,-87.91022199999999
+284, Ascension SE Wisconsin - Mayfair Road Immediate Care ,https://fox6now.com/2020/03/23/ascension-wisconsin-launches-drive-through-covid-19-testing-sites/,43.032816,-88.04852199999999
+285, Ascension Medical Group at Grafton High School ,https://fox6now.com/2020/03/23/ascension-wisconsin-launches-drive-through-covid-19-testing-sites/,43.321103,-87.939745
+286, West Virginia University Medicine ,https://wvumedicine.org/news/article/wvu-medicine-to-offer-pre-screened-patients-drive-through-specimen-collection-for-covid-19/,39.6539117,-79.95774859999999
+287, WVU Camden Clark Medical Center ,https://www.wtap.com/content/news/BREAKING-Parkersburg-among-5-WVU-Medicine--568875051.html?ref=051,39.2696181,-81.5599487
+288," Wheeling Hospital, Wheeling Park (parking lot) ",https://wtov9.com/news/local/wheeling-hospital-conducts-drive-thru-covid-19-testing-at-wheeling-park,40.0579749,-80.6667535
+289, WVU United Hospital Center ,https://www.wvnews.com/theet/news/bridgeport-wv-drive-through-testing-site-already-serving-patients/article_5b1fc19d-b0cb-56be-8469-b2069f471abf.html,39.328546,-80.239579
+290, Beckley ARH Hospital ,https://www.register-herald.com/health/known-covid--testing-sites-around-the-region/article_f3f861b2-8a55-594d-be7a-5bbd3732f8f5.html,37.798770000000005,-81.16839
+291, Raleigh General Hospital ,https://www.register-herald.com/health/known-covid--testing-sites-around-the-region/article_f3f861b2-8a55-594d-be7a-5bbd3732f8f5.html,37.787490999999996,-81.20229300000001
+292, Beckley-Raleigh Health Department ,https://www.register-herald.com/health/known-covid--testing-sites-around-the-region/article_f3f861b2-8a55-594d-be7a-5bbd3732f8f5.html,37.785309999999996,-81.20234
+293, Boone Memorial Hospital ,https://www.register-herald.com/health/known-covid--testing-sites-around-the-region/article_f3f861b2-8a55-594d-be7a-5bbd3732f8f5.html,38.048159999999996,-81.80611999999999
+294, Mountain Laurel Medical Clinic ,https://www.register-herald.com/health/known-covid--testing-sites-around-the-region/article_f3f861b2-8a55-594d-be7a-5bbd3732f8f5.html,37.973259999999996,-81.14707
+295, Chase Bank parking lot ,https://www.register-herald.com/health/known-covid--testing-sites-around-the-region/article_f3f861b2-8a55-594d-be7a-5bbd3732f8f5.html,37.97249,-81.14838
+296, Princeton Community Hospital ,https://www.register-herald.com/health/known-covid--testing-sites-around-the-region/article_f3f861b2-8a55-594d-be7a-5bbd3732f8f5.html,37.36319,-81.113136
+297, Bluestone Health Center ,https://www.register-herald.com/health/known-covid--testing-sites-around-the-region/article_f3f861b2-8a55-594d-be7a-5bbd3732f8f5.html,37.397870000000005,-81.13141
+298, Rainelle Medical Center Inc ,https://www.register-herald.com/health/known-covid--testing-sites-around-the-region/article_f3f861b2-8a55-594d-be7a-5bbd3732f8f5.html,37.96855,-80.77864
+299, Greenbrier Valley Medical Center ,https://www.register-herald.com/health/known-covid--testing-sites-around-the-region/article_f3f861b2-8a55-594d-be7a-5bbd3732f8f5.html,37.77306,-80.47023
+300, Summersville Regional Medical Center ,https://www.register-herald.com/health/known-covid--testing-sites-around-the-region/article_f3f861b2-8a55-594d-be7a-5bbd3732f8f5.html,38.29252,-80.82929
+301, Welch Community Hospital ,https://www.register-herald.com/health/known-covid--testing-sites-around-the-region/article_f3f861b2-8a55-594d-be7a-5bbd3732f8f5.html,37.43912,-81.58799
+302, Cheyenne Regional Medical Center ,https://www.wyomingnews.com/news/local_news/drive-up-covid--testing-begins-governor-announces-task-forces/article_f798d233-baf0-55b7-8cf2-af976307c78c.html,41.140052000000004,-104.81517
+303, Abington Hospital ,https://6abc.com/6045920/,40.120152000000004,-75.11953000000001
+304, Genesis Diagnostics ,https://6abc.com/6045920/,40.18871,-74.87803000000001
+305, Main Line Health -Newtown Square ,https://6abc.com/6045920/,39.98607,-75.40928000000001
+306, Temple University Ambler - Upper Dublin Township ,https://6abc.com/6045920/,40.16857,-75.20288000000001
+307, University of Pennsylvania Health System - Radnor ,https://6abc.com/6045920/,40.04384,-75.35682
+308, Florida Department of Health ,https://www.heraldtribune.com/news/20200326/coronavirus-florida-sarasota-county-opening-drive-thru-covid-19-testing,27.26898,-82.43791999999999
+309, Citizens Bank Park - South Philadelphia ,https://6abc.com/6045920/,39.906139,-75.16825899999999
+310, Jefferson University Hospital - Center City Philadelphia ,https://6abc.com/6045920/,39.95537,-75.15589
+311, Manatee County Department of Health ,https://www.heraldtribune.com/news/20200327/coronavirus-florida-smooth-1st-day-of-drive-thru-testing-in-manatee-county,27.515590999999997,-82.560638
+312, Jefferson Frankford Hospital ,https://6abc.com/6045920/,40.019871,-75.081398
+313, MedStar Health\xa0 ,https://www.mymcmedia.org/medstar-offers-drive-thru-covid-19-testing-in-bethesda/,39.02251,-77.13371
+314, Jefferson Torresdale Hospital ,https://6abc.com/6045920/,40.0724,-74.9833
+315, Jefferson Bucks Hospital ,https://6abc.com/6045920/,40.18322,-74.870377
+316, University of Pennsylvania Health System - West Philadelphia ,https://6abc.com/6045920/,39.95722,-75.20492
+317, Rite Aid - 7401 Ogontz Avenue ,https://6abc.com/6045920/,40.06793,-75.15619000000001
+318, Central Outreach Wellness Center Sites ,https://www.wesa.fm/post/where-get-tested-covid-19-pittsburgh-and-what-you-need-bring#stream/0,40.48708,-79.92045
+319, Central Outreach Wellness Center Sites ,https://www.wesa.fm/post/where-get-tested-covid-19-pittsburgh-and-what-you-need-bring#stream/0,40.61188,-80.28631999999999
+320, Allegheny Health Network ,https://www.wesa.fm/post/where-get-tested-covid-19-pittsburgh-and-what-you-need-bring#stream/0,40.63564,-80.06351
+321, Allegheny Health Network ,https://www.wesa.fm/post/where-get-tested-covid-19-pittsburgh-and-what-you-need-bring#stream/0,40.33797,-80.02157
+322, Allegheny Health Network ,https://www.wesa.fm/post/where-get-tested-covid-19-pittsburgh-and-what-you-need-bring#stream/0,40.4389,-79.76198000000001
+323, Allegheny Health Network ,https://www.wesa.fm/post/where-get-tested-covid-19-pittsburgh-and-what-you-need-bring#stream/0,42.07586,-80.17066
+324, UPMC ,https://www.wesa.fm/post/where-get-tested-covid-19-pittsburgh-and-what-you-need-bring#stream/0,40.425629,-79.977791
+325, LVHN COVID-19 Assess and Test–17th Street  ,https://www.lvhn.org/testing-services/coronavirus-covid-19-care,40.6005,-75.49616
+326, LVHN COVID-19 Assess and Test–MacArthur Road ,https://www.lvhn.org/testing-services/coronavirus-covid-19-care,40.647121000000006,-75.49472
+327, LVHN COVID-19 Assess and Test–Macungie ,https://www.lvhn.org/testing-services/coronavirus-covid-19-care,40.520270000000004,-75.56638000000001
+328, LVHN COVID-19 Assess and Test–Muhlenberg ,https://www.lvhn.org/testing-services/coronavirus-covid-19-care,40.64755,-75.40817
+329, LVHN COVID-19 Assess and Test–Nazareth  ,https://www.lvhn.org/testing-services/coronavirus-covid-19-care,40.73102,-75.31366
+330, LVHN COVID-19 Assess and Test\xad\xad–Richland Township ,https://www.lvhn.org/testing-services/coronavirus-covid-19-care,40.4584,-75.36845
+331, LVHN COVID-19 Assess and Test–Bartonsville ,https://www.lvhn.org/testing-services/coronavirus-covid-19-care,41.00333,-75.26788
