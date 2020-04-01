@@ -11,6 +11,8 @@ python-decouple = "*"
 requests = "*"
 beautifulsoup4 = "*"
 pycountry = "*"
+mongoengine = "*"
+pymongo = "*"
 
 [dev-packages]
 pylint = "*"
