@@ -6,47 +6,6 @@ import pymongo
 import pprint
 from utils import *
 
-class Stats(EmbeddedDocument):
-    last_updated = DateTimeField(required=False)
-    tested = IntField(required=False)
-    confirmed = IntField(required=True)
-    deaths = IntField(required=True)
-
-
-class Country(Document):
-    country = StringField(required=True)
-    alpha2Code = StringField(max_length=2, required=True)
-    lat = FloatField(required=True)
-    lon = FloatField(required=True)
-    population = IntField(required=False)
-    area = IntField(required=False)
-    stats = ListField(EmbeddedDocumentField(Stats, required=False))
-
-
-class State(Document):
-    state = StringField(required=True)
-    stateAbbr = StringField(max_length=2, required=True)
-    lat = FloatField(required=True)
-    lon = FloatField(required=True)
-    population = IntField(required=False)
-    area = IntField(required=False)
-    stats = ListField(EmbeddedDocumentField(Stats, required=False))
-
-
-class County(Document):
-    state = StringField(max_length=15, required=True)
-    stateAbbr = StringField(max_length=2, required=True)
-    county = StringField(max_length=100, require=True)
-    fips = IntField(max_length=6, required=True)
-    lat = FloatField(required=True)
-    lon = FloatField(required=True)
-    population = IntField(required=False)
-    area = IntField(required=False)
-    hospitals = IntField(required=False)
-    hospital_beds = IntField(required=False)
-    medium_income = IntField(required=False)
-    stats = ListField(EmbeddedDocumentField(Stats, required=False))
-
 
 def ingest_country():
     """ingestion script for country level data"""
@@ -117,15 +76,17 @@ def ingest_county():
     confirmed = "https://raw.githubusercontent.com/CSSEGISandData/COVID-19/master/csse_covid_19_data/csse_covid_19_time_series/time_series_covid19_confirmed_US.csv"
     deaths = "https://raw.githubusercontent.com/CSSEGISandData/COVID-19/master/csse_covid_19_data/csse_covid_19_time_series/time_series_covid19_deaths_US.csv"
     info = "https://raw.githubusercontent.com/ncov19-us/ds/master/population-income-and-hospitals/county-level-hospital-population-and-income-data.csv"
+    
     confirmed = pd.read_csv(confirmed)
     deaths = pd.read_csv(deaths)
+    info = pd.read_csv(info)
 
     confirmed = confirmed[confirmed['Province_State'].isin(REVERSE_STATES_MAP.values())]
     deaths = deaths[deaths['Province_State'].isin(REVERSE_STATES_MAP.values())]
 
     print(f"Total Number of counties confirmed {confirmed['Admin2'].unique().shape}")
     print(f"Total Number of counties deaths {deaths['Admin2'].unique().shape}")
-
+    print(f"Total Number of counties info has {info.shape}")
     # Admin2,Province_State,Country_Region
     dates = confirmed.columns.to_list()[11:]
 
@@ -158,7 +119,7 @@ def ingest_county():
                     lat = confirmed['Lat'].iloc[i],
                     lon = confirmed['Long_'].iloc[i],
                     population = deaths['Population'].iloc[i],
-                    area = 0,
+                    area = info[confirmed['FIPS'].iloc[i] == info[]],
                     hospitals = 0,
                     hospital_beds = 0,
                     medium_income = 0,
