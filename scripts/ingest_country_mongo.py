@@ -42,7 +42,7 @@ def wrangle_country(df):
     df = read_df(df)
     try:
         df.loc[df["country/region"] == "US", "country/region"] = "United States"
-        print(df[df["country/region"] == "United States"])
+        # print(df[df["country/region"] == "United States"])
     except Exception as ex:
         print(f"[ERROR] {ex}")
     df = df[df["country/region"].isin(COUNTRY_DICT.values())]
@@ -62,10 +62,12 @@ def ingest_country():
     deaths = wrangle_country(deaths_url)
     print(f"[DEBUG] Confirmed shape: {confirmed.shape}, Deaths shape: {deaths.shape}")
 
-    print(confirmed[confirmed["country/region"] == "United States"])
-    print(deaths[deaths["country/region"] == "United States"])
+    # print(confirmed[confirmed["country/region"] == "United States"])
+    # print(deaths[deaths["country/region"] == "United States"])
 
-    # sanity check
+    ##################################
+    # Sanity check
+    ##################################
 
     # Test 1
     assert confirmed.shape == deaths.shape
