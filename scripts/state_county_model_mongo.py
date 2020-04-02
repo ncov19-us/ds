@@ -29,10 +29,10 @@ class State(Document):
 
 
 class County(Document):
-    state = StringField(max_length=15, required=True)
+    state = StringField(required=True)
     stateAbbr = StringField(max_length=2, required=True)
-    county = StringField(max_length=100, require=True)
-    fips = IntField(max_length=6, required=True)
+    county = StringField(require=True)
+    fips = IntField(required=True)
     lat = FloatField(required=True)
     lon = FloatField(required=True)
     population = IntField(required=True)
@@ -41,8 +41,6 @@ class County(Document):
     hospital_beds = IntField(required=False)
     medium_income = FloatField(required=True)
     stats = ListField(EmbeddedDocumentField(Stats, required=True))
-
-
 
 
 def main():
@@ -74,13 +72,13 @@ def main():
     #             )
     # country.save()
 
-
     # for county in County.objects:
     #     print(county.state)
 
     # disconnect()
 
     pass
+
 
 if __name__ == "__main__":
     main()

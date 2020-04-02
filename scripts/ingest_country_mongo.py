@@ -7,11 +7,21 @@ from typing import Dict
 from state_county_model_mongo import *
 import random
 
-COUNTRY_INFO = "https://restcountries.eu/rest/v2/alpha/"
-
+COUNTRY_INFO = config("COUNTRY_INFO")
 
 # Switch to production once testing is done
 MONGO_CONNECTION_URI = config("MONGODB_CONNECTION_STAGING_URI")
+
+
+def read_df(url):
+    import string
+
+    df = pd.read_csv(url)
+    df.columns = df.columns.str.lstrip(string.punctuation)
+    df.columns = df.columns.str.rstrip(string.punctuation)
+    df.columns = df.columns.str.lower()
+    df.columns = df.columns.str.replace(" ", "_")
+    return df
 
 
 def get_country_info(alpha2Code: str) -> Dict:
@@ -26,17 +36,6 @@ def get_country_info(alpha2Code: str) -> Dict:
         print(f"[ERROR]: {ex}")
         data = {"population": 0, "area": 0}
     return data
-
-
-def read_df(url):
-    import string
-
-    df = pd.read_csv(url)
-    df.columns = df.columns.str.lstrip(string.punctuation)
-    df.columns = df.columns.str.rstrip(string.punctuation)
-    df.columns = df.columns.str.lower()
-    df.columns = df.columns.str.replace(" ", "_")
-    return df
 
 
 def wrangle_country(df):
@@ -100,7 +99,7 @@ def ingest_country():
 
     # Drop Colleciton if exists
     try:
-        status = Country.drop_collection()
+        Country.drop_collection()
         print(f"[DEBUG] Dropped collection")
     except:
         pass
@@ -142,76 +141,8 @@ def ingest_country():
     disconnect()
 
 
-def ingest_county():
-    """ingestion script for county level data"""
-    confirmed = "https://raw.githubusercontent.com/CSSEGISandData/COVID-19/master/csse_covid_19_data/csse_covid_19_time_series/time_series_covid19_confirmed_US.csv"
-    deaths = "https://raw.githubusercontent.com/CSSEGISandData/COVID-19/master/csse_covid_19_data/csse_covid_19_time_series/time_series_covid19_deaths_US.csv"
-    info = "https://raw.githubusercontent.com/ncov19-us/ds/master/population-income-and-hospitals/county-level-hospital-population-and-income-data.csv"
-
-    confirmed = pd.read_csv(confirmed)
-    deaths = pd.read_csv(deaths)
-    info = pd.read_csv(info)
-
-    confirmed = confirmed[confirmed["Province_State"].isin(REVERSE_STATES_MAP.values())]
-    deaths = deaths[deaths["Province_State"].isin(REVERSE_STATES_MAP.values())]
-
-    print(f"Total Number of counties confirmed {confirmed['Admin2'].unique().shape}")
-    print(f"Total Number of counties deaths {deaths['Admin2'].unique().shape}")
-    print(f"Total Number of counties info has {info.shape}")
-    # Admin2,Province_State,Country_Region
-    dates = confirmed.columns.to_list()[11:]
-
-    assert confirmed["Admin2"][37] == deaths["Admin2"][37]
-    assert confirmed["Admin2"][1115] == deaths["Admin2"][1115]
-    assert confirmed["Admin2"][1715] == deaths["Admin2"][1715]
-
-    num_counties = confirmed.shape[0]
-    # dates = confirmed.columns.to_list()[3:]
-
-    connect(host=MONGO_CONNECTION_URI)
-
-    # have to use iloc otherwise code breaks by straight indexing.
-    for i in range(num_counties):
-
-        stats = []
-        for j in range(len(dates)):
-            s = Stats(
-                last_updated=datetime.strptime(dates[j], "%m/%d/%Y"),
-                confirmed=confirmed[dates[j]].iloc[i],
-                deaths=deaths[dates[j]].iloc[i],
-            )
-            stats.append(s)
-
-        county = County(
-            state=confirmed["Province_State"].iloc[i],
-            stateAbbr=states_map[confirmed["Province_State"].iloc[i]],
-            county=confirmed["Admin2"].iloc[i],
-            fips=confirmed["FIPS"].iloc[i],
-            lat=confirmed["Lat"].iloc[i],
-            lon=confirmed["Long_"].iloc[i],
-            population=deaths["Population"].iloc[i],
-            area=0,
-            hospitals=0,
-            hospital_beds=0,
-            medium_income=0,
-            stats=stats,
-        )
-
-        county.save()
-
-    count = 0
-    for county in County.objects:
-        print(county.county)
-        count += 1
-
-    print(f"Numbers of countries in dataset {num_counties}, ingested {count}")
-
-    disconnect()
-
-
 def main():
     ingest_country()
-    # ingest_county()
 
 
 if __name__ == "__main__":
