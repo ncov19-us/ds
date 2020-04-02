@@ -501,3 +501,4 @@ for row in STATES_COORD:
 STATES_MAP = {}
 for row in STATES_COORD:
     STATES_MAP[row["state"]] = row["state_abbrv"]
+
