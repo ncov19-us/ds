@@ -81,7 +81,7 @@ COUNTRY_DICT = {
     "LK": "Sri Lanka",
     "CA": "Canada",
     "ET": "Ethiopia",
-    "US": "US",
+    "US": "United States",
     "RS": "Serbia",
     "BY": "Belarus",
     "SA": "Saudi Arabia",
@@ -131,7 +131,7 @@ COUNTRY_DICT = {
     "GM": "Gambia",
     "UG": "Uganda",
     "KH": "Cambodia",
-    "BU": "Burma",
+    "MM": "Burma",
     "MY": "Malaysia",
     "KW": "Kuwait",
     "EG": "Egypt",
@@ -173,7 +173,7 @@ COUNTRY_DICT = {
     "PS": "West Bank and Gaza",
     "BW": "Botswana",
     "CG": "Congo (Brazzaville)",
-    "KV": "Kosovo",
+    "XK": "Kosovo",
     "CD": "Congo (Kinshasa)",
     "LA": "Laos",
 }
@@ -495,9 +495,10 @@ STATES_COORD = [
 
 REVERSE_STATES_MAP = {}
 for row in STATES_COORD:
-    REVERSE_STATES_MAP [row["state_abbrv"]] = row["state"]
+    REVERSE_STATES_MAP[row["state_abbrv"]] = row["state"]
 
 
 STATES_MAP = {}
 for row in STATES_COORD:
     STATES_MAP[row["state"]] = row["state_abbrv"]
+
