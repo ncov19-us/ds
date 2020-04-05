@@ -374,7 +374,7 @@ Name,URL,Latitude,Longitude,Coordinates,State,City,Street Address
  AnMed Health Women’s and Children Hospital ,https://www.thestate.com/news/coronavirus/article241460936.html,34.511768,-82.646873,"(34.511768, -82.646873)", South Carolina , Anderson,800 N Fant St
  McLeod Dillon Hospital & ER ,https://www.thestate.com/news/coronavirus/article241460936.html,34.421391,-79.365051,"(34.421391, -79.365051)", South Carolina , Dillon,379 E Jackson St
  McLeod Health Cheraw ,https://www.thestate.com/news/coronavirus/article241460936.html,34.71965,-80.016411,"(34.71965, -80.016411)", South Carolina , Cheraw,6927 SC-9 E
- Prisma Health Tuomey Hospital ,None,33.92371,-80.34335300000002,"(33.92371, -80.34335300000002)", South Carolina , Sumter,N Sumter St
+ Prisma Health Tuomey Hospital ,https://www.thestate.com/news/coronavirus/article241460936.html,33.92371,-80.34335300000002,"(33.92371, -80.34335300000002)", South Carolina , Sumter,N Sumter St
  Self Regional Medical Center ,https://www.thestate.com/news/coronavirus/article241460936.html,34.17538,-82.15629,"(34.17538, -82.15629)", South Carolina , Greenwood,1325 Spring St
  MUSC Health Lancaster Medical Center Emergency Room ,https://www.thestate.com/news/coronavirus/article241460936.html,34.717411,-80.787666,"(34.717411, -80.787666)", South Carolina , Lancaster,808 W Meeting St
  McLeod Seacoast Hospital & ER ,https://www.thestate.com/news/coronavirus/article241460936.html,33.86571,-78.66353000000002,"(33.86571, -78.66353000000002)", South Carolina , Little River,4000 SC-9 E
@@ -486,3 +486,19 @@ Name,URL,Latitude,Longitude,Coordinates,State,City,Street Address
  Ascension St. Michael’s Hospital ,https://waow.com/2020/03/25/ascension-opening-drive-thru-covid-19-testing-in-north-central-wisconsin/,44.527012,-89.567047,"(44.527012, -89.567047)", Wisconsin , Stevens Point,908 Illinois Ave
  Ascension St. Mary\'s Hospital ,https://waow.com/2020/03/25/ascension-opening-drive-thru-covid-19-testing-in-north-central-wisconsin/,45.639462,-89.374893,"(45.639462, -89.374893)", Wisconsin , Rhinelander,2251 N Shore Dr
  Ascension St. Mary\'s - Crandon ,https://waow.com/2020/03/25/ascension-opening-drive-thru-covid-19-testing-in-north-central-wisconsin/,45.57249,-88.90957,"(45.57249, -88.90957)", Wisconsin , Crandon,376 W Glen St
+ Aurora St Luke\'s Medical Center ,https://www.cbs58.com/news/more-than-100-cases-of-covid-19-confirmed-in-wisconsin,42.989368,-87.949623,"(42.989368, -87.949623)", Wisconsin , Milwaukee,3039 S 28th St
+ Woodward County Health Department ,https://www.newson6.com/story/41964088/coronavirus-covid19-drivethru-testing-locations-in-oklahoma,36.423876,-99.377699,"(36.423876, -99.377699)", Oklahoma , Woodward,237 Temple Houston Dr
+ Kroger Health (The Little Clinic)  ,https://www.wvlt.tv/content/news/Drive-thru-COVID-19-testing-opportunity-announced-for-Knox-County-569318001.html,35.999432,-83.88893900000002,"(35.999432, -83.88893900000002)", Tennessee , Knoxville,3540 Knoxville Zoo Dr
+ Carter County Health Department ,https://www.timesnews.net/Health-Care/2020/04/02/Rogersville-among-four-Northeast-TN-Health-Dept-COVID-19-testing-locations,36.34547,-82.21937,"(36.34547, -82.21937)", Tennessee , Elizabethton,240 Holston Ave
+ Hawkins County’s Rogersville Health Department ,https://www.timesnews.net/Health-Care/2020/04/02/Rogersville-among-four-Northeast-TN-Health-Dept-COVID-19-testing-locations,36.416111,-82.99297299999998,"(36.416111, -82.99297299999998)", Tennessee , Rogersville,201 Park Blvd
+ Washington County Health Department ,https://www.timesnews.net/Health-Care/2020/04/02/Rogersville-among-four-Northeast-TN-Health-Dept-COVID-19-testing-locations,36.34876,-82.37344,"(36.34876, -82.37344)", Tennessee , Johnson City,263 Princeton Rd
+ Grundy County Health Department ,https://www.grundycountyherald.com/drive-thru-testing-to-be-done-in-grundy-county/,35.37529,-85.72525999999998,"(35.37529, -85.72525999999998)", Tennessee , Coalmont,24244 TN-108
+ Beatty Justice Court ,https://www.fox5vegas.com/coronavirus/drive-thru-covid-19-testing-launches-tuesday-in-nye-county/article_25442f22-734a-11ea-854f-d3383ace61ca.html,36.90214,-116.76601,"(36.90214, -116.76601)", Nevada , Beatty,312 C Ave S
+" St. George Medical Clinic, Inc. ",https://www.manchin.senate.gov/coronavirus?latest=12,39.10201,-79.6704,"(39.10201, -79.6704)", West Virginia , Hambleton,138 Crestview Dr
+ Pleasant Valley Hospital ,https://www.manchin.senate.gov/coronavirus?latest=12,38.86898,-82.12331999999998,"(38.86898, -82.12331999999998)", West Virginia , Point Pleasant,2547 Valley Dr
+ Bluestone Health Center ,https://www.manchin.senate.gov/coronavirus?latest=12,37.39787000000001,-81.13141,"(37.39787000000001, -81.13141)", West Virginia , Princeton,3466 Beckley Rd
+ Camden Family Health Richwood Location ,https://www.manchin.senate.gov/coronavirus?latest=12,38.21967,-80.54531,"(38.21967, -80.54531)", West Virginia , Richwood,86 Sewell St
+ CAMC Teays Valley Hospital ,https://www.manchin.senate.gov/coronavirus?latest=12,38.45157,-81.95237,"(38.45157, -81.95237)", West Virginia , Hurricane,1400 Hospital Dr
+ Presbyterian ,http://cvproviderportal.rtsclients.com/directory.html,35.21753,-106.70686,"(35.21753, -106.70686)", New Mexico , Albuquerque,11150 Fiesta Park St NW
+ PresNow ,https://www.kob.com/coronavirus/long-line-forms-as-presbyterian-begins-drive-thru-covid-19-testing/5674723/,35.13395,-106.70182,"(35.13395, -106.70182)", New Mexico , Albuquerque,Coors Blvd NW
+ Genesis Health ,https://www.genesishealth.com/coronavirus-disease-2019-covid-19/,41.57496,-90.59497,"(41.57496, -90.59497)", Iowa , Davenport,1520 W 53rd St
